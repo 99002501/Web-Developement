@@ -1,0 +1,165 @@
+<html>
+<head>
+<body>
+<h2><center>WELCOME PARK PLAZA</center></h6>
+<style>
+	body{
+            background-color: bisque;
+            color: red;
+				background: url(h.jpg)no-repeat;
+			background-size : cover;
+			
+        }
+        h1{
+            text-align: center;
+            border: 2px solid blue;
+            padding: 10px;
+            margin: 30px;
+        }
+        nav{
+            background-color: bisque;
+            padding: 20px;
+            margin: 10px;
+            text-align: center;
+        }
+        a{
+            width: 50px;
+            height: 50px;
+            background-color: bisque;
+            color: grey;
+            padding: 10px;
+            margin: 10px;
+            font-size:14pt;
+        }
+
+        a:hover{
+            background-color: white;
+        }
+		</style>
+		
+<header>
+          <nav>
+              <a href="./home.html">HOME</a>"
+              <a href="./About.html">ABOUT</a>"
+              <a href="./rooms.html">BOOKINGS</a>"
+              <a href="./enquiry.html">ENQUIRY</a>"
+			   <a href="./facilities.html">FACILITIES</a>"
+        
+          </nav>
+		   
+		   <margin>
+<form>
+  <center>
+ <hr>
+    <h2>Booking & contact</h2>
+    <div>
+      <input type="text" id="name">
+      <label for="name">Name</label>
+    </div>
+  
+      <input type="text" id="email">
+      <label for="email">Email</label>
+    </div>       
+    <div>
+      <input type="tel" id="phone">
+      <label for="phone">Phone</label>
+    </div>
+      <div>
+           <input type="text" id="street" class="floatLabel" name="street">
+           <label for="street">Street</label>
+          </div>          
+        
+        <div>
+            <input type="number" id="street-number">
+            <label for="street-number">Number</label>
+                  
+       
+      </div>
+      <div>
+            <input type="text" id="city">
+            <label for="city">City</label>
+                  
+        </div>
+        <div>
+            <input type="text" id="post-code">
+            <label for="post-code">Post Code</label>
+                   
+       
+      </div>
+      <div class="controls">
+        <input type="text" id="country" >
+        <label for="country">Country</label>
+      </div>
+  
+ 
+  <div>
+   <div>
+    <h2>Details</h2>
+    <div>
+        <input type="date" id="arrive"   value="<?php echo date('Y-m-d'); ?>">
+        <label for="arrive" >&nbsp;&nbsp;checkin</label>
+     
+    </div>
+      <div>
+        <input type="date" id="depart"  value="<?php echo date('Y-m-d'); ?>" />
+        <label for="depart" >&nbsp;&nbsp;checkout</label>
+      </div>      
+  
+   
+      <div>
+        <i class="fa fa-sort"></i>
+        <select class="floatLabel">
+          <option value="blank"></option>
+          <option value="1">1</option>
+          <option value="2" selected>2</option>
+          <option value="3">3</option>
+        </select>
+        <label for="fruit">&nbsp;&nbsp;People</label>
+          
+    </div>
+    <div>
+      <select class="floatLabel">
+        <option value="blank"></option>
+        <option value="deluxe" selected>With Bathroom</option>
+        <option value="Zuri-zimmer">Without Bathroom</option>
+      </select>
+      <label for="fruit">Room</label>
+     </div>     
+   
+
+    <div>
+      
+      <select>
+        <option value="blank"></option>
+        <option value="single-bed">2BHD</option>
+        <option value="double-bed" selected>3BHD</option>
+      </select>
+      <label for="fruit">Bedding</label>
+     </div>
+      
+    
+      <div>
+        <p>Please describe your needs e.g. Extra beds, children's cots</p>
+		<b>Your other requirements:</b>
+                <input type="checkbox">Bar
+                <input type="checkbox">Gym
+                <input type="checkbox">Swimming Pool
+                <input type="checkbox">Coffee Shop
+                <input type="checkbox">spa
+            </p>
+			Pickup and drop  needed?:<input type="radio">yes <input type="radio"> No
+			<hr>
+        <br>
+        <div class="controls">
+          <textarea name="comments"  id="comments"></textarea>
+          <label for="comments">Comments</label>
+          </div>
+          <center>  <button type="submit" value="Submit">Submit</button></center>
+      </div>  
+  </center> <footer><center>&copy;Copyrights park plaza.Inc-2020</center></footer>
+ </margin>
+  
+</form>
+</body>
+</head>
+</html>
