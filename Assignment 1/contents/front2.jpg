@@ -1,0 +1,3194 @@
+<!DOCTYPE html>
+<HTML>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/14020288-widget_css_bundle.css' rel='stylesheet' type='text/css'/>
+<meta charset='utf-8'/>
+<!--[if lt IE 9]> <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"> </script> <![endif]-->
+<meta content='Kode verify bing anda disini' name='msvalidate.01'/>
+<meta content='kode verify alexa anda disini' name='alexaVerifyID'/>
+<meta content='kode verify google webmaster disini' name='google-site-verification'/>
+<link href='https://plus.google.com/' rel='publisher'/>
+<link href='https://plus.google.com/' rel='author'/>
+<link href='https://plus.google.com/' rel='me'/><meta content='general' name='rating'/>
+<meta content='id' name='geo.country'/><meta content='width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1' name='viewport'/>
+<meta content='text/html;charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='https://comorosholidayhotels.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='https://comorosholidayhotels.blogspot.com/2018/06/comoros-islands-5-star-hotels.html' rel='canonical'/>
+<link href='https://comorosholidayhotels.blogspot.com/feeds/posts/default' rel='alternate' title='Comoros Holiday Hotels - Atom' type='application/atom+xml'/>
+<link href='https://comorosholidayhotels.blogspot.com/feeds/posts/default?alt=rss' rel='alternate' title='Comoros Holiday Hotels - RSS' type='application/rss+xml'/>
+<link href='https://www.blogger.com/feeds/7815422418513563978/posts/default' rel='alternate' title='Comoros Holiday Hotels - Atom' type='application/atom+xml'/>
+<link href='https://www.blogger.com/openid-server.g' rel='openid.server'/>
+<link href='https://comorosholidayhotels.blogspot.com/' rel='openid.delegate'/>
+<meta content='Comoros Islands 5 Star Hotels - Comoros Holiday Hotels' name='description'/>
+<!-- SEO Meta Tag -->
+<meta content='Comoros Islands 5 Star Hotels' name='keywords'/>
+<!-- SEO Title Tag -->
+<title>Comoros Islands 5 Star Hotels | Comoros Holiday Hotels</title>
+<meta content='YOUR_APPLICATION_ID' property='fb:app_id'/>
+<link href='https://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'/>
+<link href='//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css' rel='stylesheet'/>
+<link href='https://www.blogger.com/static/v1/widgets/1535467126-widget_css_2_bundle.css' rel='stylesheet' type='text/css'/>
+
+<style type="text/css"><!-- /* 
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Evo Magz Template
+Designer: Mas Sugeng
+URL:      https://www.mas-sugeng.com / https://www.evotemplates.netModification by : https://blogespada.blogspot.com/
+Thanks to :
+- https://www.blogger.com
+- https://evomagzclone.blogspot.com/
+- https://www.dte.web.id
+- https://fortawesome.github.io/Font-Awesome/
+- https://github.com/tessalt/dropdowns
+- https://github.com/matthewhall/matt-tabs
+- https://meyerweb.com/eric/tools/css/reset/
+- https://hontap.blogspot.com/2010/04/page-navigation-voi-phong-cach-wp.html
+----------------------------------------------- */
+/* Variable definitions
+====================
+<Variable name="keycolor" description="Main Color" type="color" default="#66bbdd"/>
+<Group description="Page Text" selector="body">
+<Variable name="body.font" description="Font" type="font"
+default="normal normal 14px Arial, sans-serif"/>
+<Variable name="body.text.color" description="Main Text Color" type="color" default="#444444"/>
+</Group>
+<Group description="Main Backgrounds" selector=".body-fauxcolumns-outer">
+<Variable name="body.background.color" description="Body Background" type="color" default="#f0f0f0"/>
+<Variable name="wrapper.background.color" description="Wrapper Background" type="color" default="#ffffff"/>
+</Group>
+<Variable name="body.background" description="Body Background" type="background"
+color="#f0f0f0" default="$(color) none repeat scroll top left"/>
+<Variable name="body.background.override" description="Body Background Override" type="string" default=""/>
+<Group description="Links" selector=".main-outer">
+<Variable name="link.color" description="Link Color" type="color" default="#EE4B3D"/>
+<Variable name="link.visited.color" description="Visited Color" type="color" default="#EE4B3D"/>
+<Variable name="link.hover.color" description="Hover Color" type="color" default="#0072C6"/>
+</Group>
+<Group description="Blog Title" selector=".header h1.title, .header p.title">
+<Variable name="header.font" description="Font" type="font"
+default="normal bold 26px Open Sans Condensed, Arial, Helvetica, sans-serif"/>
+<Variable name="header.text.color" description="Title Color" type="color" default="#333333" />
+</Group>
+<Group description="Blog Description" selector=".header .description">
+<Variable name="description.text.color" description="Description Color" type="color" default="#555555"/>
+</Group>
+<Group description="Primary Navigation Menu" selector=".menu">
+<Variable name="menu1.font" description="Font" type="font"
+default="normal normal 13px Open Sans Condensed, Arial, sans-serif"/>
+<Variable name="menu1.background.color" description="Background Color" type="color" default="#ffffff"/>
+<Variable name="menu1.text.color" description="Text Color" type="color" default="#8D8D8D"/>
+<Variable name="menu1.hover.color" description="Hover Color" type="color" default="#f5f5f5"/>
+<Variable name="menu1.border.color" description="Border Color" type="color" default="#f0f0f0"/>
+</Group>
+<Group description="Secondary Navigation Menu" selector=".dropdowns">
+<Variable name="menu.font" description="Font" type="font"
+default="normal bold 14px Open Sans Condensed, Arial, sans-serif"/>
+<Variable name="menu.background.color" description="Background Color" type="color" default="#333333"/>
+<Variable name="menu.navigation.text.color" description="Text Color" type="color" default="#ffffff"/>
+<Variable name="menu.navigation.hover.color" description="Hover Color" type="color" default="#222222"/>
+<Variable name="menu.navigation.border.color" description="Border Color" type="color" default="#FF4F4F"/>
+</Group>
+<Group description="Search Box" selector="#search-form">
+<Variable name="input.background.color" description="Input Background Color" type="color" default="#ffffff"/>
+<Variable name="button.background.color" description="Button Background Color" type="color" default="#FF4F4F"/>
+<Variable name="input.color" description="Input Color" type="color" default="#666666"/>
+<Variable name="button.color" description="Button Color" type="color" default="#ffffff"/>
+</Group>
+<Group description="Post" selector=".post">
+<Variable name="post.background.color" description="Background Color" type="color" default="#ffffff" />
+<Variable name="post.border.color" description="Border Color" type="color" default="#f0f0f0" />
+</Group>
+<Group description="Post Title" selector="h2.post-title, .comments h4, h1.post-title">
+<Variable name="post.title.font" description="Font" type="font"
+default="normal normal 22px Open Sans Condensed, Helvetica, Arial, sans-serif"/>
+<Variable name="post.title.color" description="Text Color" type="color" default="#EE4B3D"/>
+</Group>
+<Group description="Post Footer" selector=".post-info, span.lebel-thumb-footer">
+<Variable name="post.footer.background.color" description="Background Color" type="color"
+default="transparent"/>
+<Variable name="post.footer.text.color" description="Text Color" type="color" default="#8D8D8D"/>
+</Group>
+<Group description="Recent Post Perlabel" selector=".recent-post-one-thumb .widget-content">
+<Variable name="recentpost.background.color" description="Background Color" type="color" default="#ffffff" />
+<Variable name="recentpost.border.color" description="Border Color" type="color" default="#f0f0f0" />
+</Group>
+<Group description="Judul Recent Post Perlabel" selector=".recent-post-title h2">
+<Variable name="recentpost.title.font" description="Title Font" type="font"
+default="normal bold 14px Arial, sans-serif"/>
+<Variable name="recentpost.title.text.color" description="Title Color" type="color" default="#ffffff"/>
+<Variable name="recentpost.title.background.color" description="Background Color" type="color" default="#FF4F4F"/>
+<Variable name="recentpost.title.hover.color" description="Hover Color" type="color" default="#333333"/>
+</Group>
+<Group description="Judul Post Recent Post Perlabel" selector="span.rp_title">
+<Variable name="recent.post.title.font" description="Font" type="font"
+default="normal normal 18px Open Sans Condensed, Helvetica, Arial, sans-serif"/>
+<Variable name="recent.post.title.color" description="Text Color" type="color" default="#EE4B3D"/>
+</Group>
+<Group description="Sidebar Widget Title" selector=".sidebar h2, .tabs-menu">
+<Variable name="sidebar.title.font" description="Title Font" type="font"
+default="normal bold 16px Open Sans Condensed, Arial, sans-serif"/>
+<Variable name="sidebar.title.text.color" description="Title Color" type="color" default="#333333"/>
+<Variable name="sidebar.title.border.color" description="Border Color" type="color" default="#FF4F4F"/>
+</Group>
+<Group description="Bottombar" selector="#bottombar">
+<Variable name="bottombar.background.color" description="Background" type="color" default="#3a3a3a"/>
+<Variable name="bottombar.color" description="Color" type="color" default="#dddddd"/>
+<Variable name="bottombar.link.color" description="Link Color" type="color" default="#dddddd"/>
+<Variable name="bottombar.hover.color" description="Hover Color" type="color" default="#ffffff"/>
+</Group>
+<Group description="Bottombar Widget Title" selector="#bottombar h2">
+<Variable name="bottombar.title.font" description="Title Font" type="font"
+default="normal bold 16px Open Sans Condensed, Arial, sans-serif"/>
+<Variable name="bottombar.title.text.color" description="Title Color" type="color" default="#eeeeee"/>
+<Variable name="bottombar.title.border.color" description="Border Color" type="color" default="#eeeeee"/>
+</Group>
+<Group description="Footer" selector="#footer-wrapper">
+<Variable name="footer.background.color" description="Background" type="color" default="#333333"/>
+<Variable name="footer.color" description="Color" type="color" default="#eeeeee"/>
+<Variable name="footer.link.color" description="Link Color" type="color" default="#eeeeee"/>
+<Variable name="footer.hover.color" description="Hover Color" type="color" default="#ffffff"/>
+</Group>
+<Group description="Read More" selector="a.readmore, .label-size">
+<Variable name="readmore.background.color" description="Background Color" type="color" default="#ffffff"/>
+<Variable name="readmore.color" description="Color" type="color" default="#7D7D7D"/>
+<Variable name="readmore.border.color" description="Border Color" type="color" default="#DDDDDD"/>
+<Variable name="readmore.hover.color" description="Hover Color" type="color" default="#EE4B3D"/>
+</Group>
+<Group description="Back to Top" selector="#back-to-top">
+<Variable name="backtp.background.color" description="Background" type="color" default="#FF4F4F"/>
+<Variable name="backtp.color" description="Color" type="color" default="#ffffff"/>
+</Group>
+<Group description="Label Cloud" selector=".label-size">
+<Variable name="label.background.color" description="Background" type="color" default="#FF4F4F"/>
+<Variable name="label.color" description="Color" type="color" default="#ffffff"/>
+<Variable name="label.hover.color" description="Hover Color" type="color" default="#333333"/>
+<Variable name="label.count.color" description="Label Count" type="color" default="#333333"/>
+</Group>
+<Group description="Popular Post 1-5" selector=".PopularPosts">
+<Variable name="popular.post.color1" description="Color 1" type="color" default="#A51A5D"/>
+<Variable name="popular.post.color2" description="Color 2" type="color" default="#F53477"/>
+<Variable name="popular.post.color3" description="Color 3" type="color" default="#FD7FAA"/>
+<Variable name="popular.post.color4" description="Color 4" type="color" default="#FF9201"/>
+<Variable name="popular.post.color5" description="Color 5" type="color" default="#FDCB01"/>
+</Group>
+<Group description="Popular Post 5-10" selector=".PopularPosts">
+<Variable name="popular.post.color6" description="Color 6" type="color" default="#DEDB00"/>
+<Variable name="popular.post.color7" description="Color 7" type="color" default="#89C237"/>
+<Variable name="popular.post.color8" description="Color 8" type="color" default="#44CCF2"/>
+<Variable name="popular.post.color9" description="Color 9" type="color" default="#01ACE2"/>
+<Variable name="popular.post.color10" description="Color 10" type="color" default="#94368E"/>
+</Group>
+*/
+/**
+* Eric Meyer&#39;s Reset CSS v2.0 (https://meyerweb.com/eric/tools/css/reset/)
+* https://cssreset.com
+*/
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
+/* HTML5 display-role reset for older browsers */
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}body{line-height:1;display:block;}*{margin:0;padding:0;}html{display:block;}ol,ul{list-style:none;}blockquote,q{quotes:none;}blockquote:before,blockquote:after,q:before,q:after{content:&#39;&#39;;content:none;}table{border-collapse:collapse;border-spacing:0;}
+/* Blogger CSS Reset */
+.section,.widget{margin:0 0 0 0;padding:0 0 0 0;
+}
+.navbar, .blog-feeds, .feed-links, #backlinks-container {display:none;
+}
+.post-body .separator > a, .post-body .separator > span {
+margin-left: 0 !important;
+}
+/* FRAMEWORK */
+strong,b{font-weight:bold;
+}
+cite,em,i{font-style:italic;
+}
+a:link{color:#EE4B3D;text-decoration:none;outline:none;transition:all 0.25s;-moz-transition:all 0.25s;-webkit-transition:all 0.25s;
+}
+a:visited{color:#EE4B3D;text-decoration:none;
+}
+a:hover{color:#0072C6;text-decoration:none;
+}
+a img{border:none;border-width:0;outline:none;
+}
+abbr,acronym{border-bottom:1px dotted;cursor:help;
+}
+sup,sub{vertical-align:baseline;position:relative;top:-.4em;font-size:86%;
+}
+sub{top:.4em;}small{font-size:86%;
+}
+kbd{font-size:80%;border:1px solid #999;padding:2px 5px;border-bottom-width:2px;border-radius:3px;
+}
+mark{background-color:#ffce00;color:black;
+}
+p,blockquote,pre,table,figure,hr,form,ol,ul,dl{margin:1.5em 0;
+}
+hr{height:1px;border:none;background-color:#666;
+}
+/* heading */
+h1,h2,h3,h4,h5,h6{font-weight:bold;line-height:normal;margin:0 0 0.6em;
+}
+h1{font-size:190%
+}
+h2{font-size:180%
+}
+h3{font-size:150%}
+h4{font-size:130%
+}
+h5{font-size:110%
+}
+h6{font-size:90%
+}
+/* list */
+ol,ul,dl{margin:.5em 0em .5em 3em
+}
+ol{list-style:decimal outside
+}
+ul{list-style:disc outside
+}
+li{margin:.5em 0
+}
+dt{font-weight:bold
+}
+dd{margin:0 0 .5em 2em
+}
+/* form */
+input,button,select,textarea{font:inherit;font-size:100%;line-height:normal;vertical-align:baseline;
+}
+textarea{display:block;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;
+}
+/* code blockquote */
+pre,code{font-family:"Courier New",Courier,Monospace;color:inherit;
+}
+pre{white-space:pre;word-wrap:normal;overflow:auto;
+}
+blockquote{background:#f0f0f0;margin-left:2em;margin-right:2em;padding:1em 1em;font-style:italic;font-size:110%;
+}
+blockquote:before {
+content: "\f10d";
+font-family: FontAwesome;
+font-style: normal;
+font-weight: normal;
+text-decoration: inherit;
+padding-right:4px;
+color:#666;
+}
+/* table */
+table[border="1"] td, table[border="1"] th {
+vertical-align: top;
+text-align: left;
+font-size: 13px;
+padding: 3px 5px;
+border: 1px solid #f0f0f0;
+}
+table[border="1"] th {
+background: #eee;
+}
+table, img {
+max-width: 100%;
+height: auto;
+}
+iframe {
+max-width:100%;
+}
+.clear {
+clear:both;
+}
+.clear:after {
+visibility:hidden;
+display:block;
+font-size:0;
+content:" ";
+clear:both;
+height:0;
+}
+body {
+background:#f0f0f0 none repeat scroll top left;
+margin:0 0 0 0;
+padding:0 0 0 0;
+color:#444444;
+font:normal normal 14px Arial, sans-serif;
+text-align:left;
+}
+/* WRAPPER */
+#wrapper {
+background:#ffffff;
+max-width:1000px;
+margin:20px auto;
+padding:28px;
+overflow:hidden;
+}
+/* NAVIGATION MENU */
+.tinynav1 {
+display: none;
+width: 100%;
+margin: 0 auto;
+border: 2px solid #ffffff;
+padding: 6px;
+background-color: #ffffff;
+font-weight: bold;
+cursor: pointer;
+outline: none;
+color: #585858;
+}
+.menu {
+font:normal bold 12px Open Sans Condensed, Arial, sans-serif;
+padding:0 0;
+background:#ffffff;
+margin:0 auto;
+height:38px;
+border:1px solid #f0f0f0;
+overflow:hidden;
+text-transform:uppercase;
+}
+.nav-menu {
+list-style-type:none;
+margin:0 0 0 0;
+padding:0 0 0 0;
+}
+.nav-menu li {
+display:block;
+float:left;
+line-height:38px;
+margin:0 0 0 0;
+padding:0 0 0 0;
+border-right:1px solid #f0f0f0;
+}
+.nav-menu li a {
+background:#ffffff;
+color:#8D8D8D;
+display:block;
+padding:0 8px;
+}
+.nav-menu li a:hover {
+background:#f5f5f5;
+}
+ul.nav-social {
+height:38px;
+margin:0 0 0 0;
+padding:0 0;
+float:right;
+}
+ul.nav-social li {
+display:inline-block;
+list-style-type:none;
+float:right;
+margin:0 0;
+padding:0 0;
+border-right:none;
+border-left:1px solid #f0f0f0;
+}
+ul.nav-social li a {
+display:inline-block;
+line-height:38px;
+height:38px;
+padding:0 8px;
+margin:0 0 0 0;
+color:#8D8D8D;
+}
+ul.nav-social li a i {
+line-height:38px;
+}
+ul.nav-social li a:hover {
+color:#fff;
+}
+ul.nav-social li a.fcb:hover {
+background:#3B5A9B;
+}
+ul.nav-social li a.gpl:hover {
+background:#DD4B39;
+}
+ul.nav-social li a.twt:hover {
+background:#1BB2E9;
+}
+ul.nav-social li a.ytb:hover {
+background:#ED3F41;
+}
+/* HEADER WRAPPER */
+#header-wrapper {
+margin:0 auto;
+overflow:hidden;
+}
+.header {
+float:left;
+width:25.7%;
+max-width:257px;
+margin:15px 0;
+}
+.header h1.title,.header p.title {
+font:normal bold 24px Fjalla One, Arial, Helvetica, sans-serif;
+margin:0 0 0 0;
+text-transform:uppercase;
+}
+.header .description {
+color:#555555;
+}
+.header a {
+color:#333333;
+}
+.header a:hover {
+color:#999;
+}
+.header img {
+display:block;
+}
+.header-right {
+float:right;
+padding:0;
+overflow:hidden;
+margin:15px 0;
+width:72.8%;
+max-width:728px;
+}
+.header-right img {
+display:block;
+}
+/* NAVIGATION MENU 2 */
+.toggleMenu {
+display:none;
+background:#E73138;
+padding:0 15px;
+height:48px;
+line-height:48px;
+color: #fff !important;
+}
+#nav {
+font:normal bold 12px Arial, sans-serif;
+background:#333333;
+text-transform:uppercase;
+height:48px;
+line-height:48px;
+}
+.nav-menu2 {
+background:#333333;
+list-style: none;
+margin:0 0 0 0;
+*zoom: 1;
+float:left;
+}
+.nav-menu2:before,
+.nav-menu2:after {
+content: " ";
+display: table;
+}
+.nav-menu2:after {
+clear: both;
+}
+.nav-menu2 ul {
+list-style: none;
+margin:0 0 0 0;
+width:12em;
+}
+.nav-menu2 a {
+display:block;
+padding:0 15px;
+}
+.nav-menu2 li {
+position: relative;
+margin:0 0;
+}
+.nav-menu2 > li {
+float: left;
+}
+.nav-menu2 > li > a {
+display: block;
+height:48px;
+line-height:48px;
+color:#ffffff;
+box-shadow: 0 4px 0 #333333 inset;
+}
+.nav-menu2 > li > a.active {
+background:#222222;
+box-shadow: 0 4px 0 #E73138 inset;
+}
+.nav-menu2 > li:hover > a {
+background:#222222;
+box-shadow: 0 4px 0 #E73138 inset;
+}
+.nav-menu2 li ul {
+background:#fff;
+display:block;
+position:absolute;
+left:0;
+z-index:10;
+visibility:hidden;
+opacity:0;
+-webkit-transition:all .25s ease-out;
+-moz-transition:all .25s ease-out;
+-ms-transition:all .25s ease-out;
+-o-transition:all .25s ease-out;
+transition:all .25s ease-out;
+border: 1px solid #d9d9d9;
+border: 1px solid rgba(217,217,217,1);
+box-shadow:0 0 2px rgba(0,0,0,0.2);
+}
+.nav-menu2 li li ul {
+left:100%;
+top:-1px;
+}
+.nav-menu2 > li.hover > ul {
+visibility:visible;
+opacity:10;
+}
+.nav-menu2 > li > ul:before {
+content:"";
+width:0px;
+height:0px;
+position:absolute;
+bottom:100%;
+left:20px;
+border-width:8px;
+border-style:solid;
+border-color:transparent transparent #fff transparent;
+display:block;
+}
+.nav-menu2 li li.hover ul {
+visibility:visible;
+opacity:10;
+}
+.nav-menu2 li li a {
+display: block;
+color:#333;
+position: relative;
+z-index:100;
+line-height:32px;
+}
+.nav-menu2 li li a:hover {
+background:#f0f0f0;
+}
+.nav-menu2 li li li a {
+background:#fff;
+z-index:20;
+color:#333;
+}
+.nav-menu2 li .parent:after {
+content: "\f107";
+font-family: FontAwesome;
+font-style: normal;
+font-weight: normal;
+text-decoration: inherit;
+padding-left:6px;
+}
+#search-form {
+background:#333333;
+float:right;
+margin:0 0;
+width:200px;
+}
+#search-form table {
+width:100%;
+margin:0 0 0 0;
+}
+#search-form td.search-box {
+padding-right:30px;
+}
+#search-form input#search-box[type="text"] {
+background:#ffffff;
+height:36px;
+line-height:36px;
+margin:5px 0 5px 10px;
+padding:0 10px;
+width:99%;
+color:#666666;
+border:none;
+}
+#search-form input#search-button[type="submit"] {
+font-family: FontAwesome;
+background:#E73037;
+color:#ffffff;
+height:36px;
+line-height:36px;
+margin:5px 10px 5px 0;
+padding:0 12px;
+border:none;
+outline:none;
+transition:all 0.25s;
+-moz-transition:all 0.25s;
+-webkit-transition:all 0.25s;
+}
+#search-form input#search-button[type="submit"]:hover{
+background:#222222;
+cursor:pointer;
+}
+#search-form input#search-box[type="text"]:focus {
+background:#eee;
+outline:none;
+}
+/* SUBSCRIBER BOX */
+.berlangganan-box {
+border-top: 1px solid #f0f0f0;
+border-bottom: 1px solid #f0f0f0;
+padding: 15px;
+margin:0 -15px 15px;
+text-align:center;
+}
+.berlangganan-box input.email-address[type="text"] {
+width:60%;
+padding:10px;
+border:1px solid #ddd;
+text-align:center;
+border-radius: 4px;
+outline:none;
+}
+.berlangganan-box input.submit-email[type="submit"] {
+transition:all 0.5s;-moz-transition:all 0.5s;-webkit-transition:all 0.5s;
+padding:10px 15px;
+background:#07ACEC;
+border-radius: 3px;
+color:#fff;
+border:none;
+font-weight:bold;
+outline:none;
+}
+.berlangganan-box input.submit-email[type="submit"]:hover {
+background:#0D9AD0;
+cursor:pointer;
+}
+.berlangganan-box input.email-address[type="text"]:focus {
+background: #f9f2a5;
+}
+/* DEFAULT PAGE NAVIGATION */
+#blog-pager {
+margin: 5px 0 15px;
+clear:both !important;
+padding:0 0;
+font-size:11px;
+font-weight:bold;
+}
+a.home-link, #blog-pager-newer-link a, #blog-pager-older-link a {
+background-color:#ffffff;
+border: 1px solid #DDDDDD;
+padding:0px 12px;
+line-height:28px;
+color:#7D7D7D;
+border-radius: 3px;
+}
+#blog-pager-newer-link a {
+float:left;
+display:block;
+}
+#blog-pager-older-link a {
+float:right;
+display:block;
+}
+a.home-link {
+display:inline-block;
+}
+#blog-pager-older-link a:hover, #blog-pager-newer-link a:hover, a.home-link:hover {
+border: 1px solid #EE4B3D;
+}
+/* CONTENT WRAPPER */
+#content-wrapper {
+background-color:transparent;
+background-image:url(//2.bp.blogspot.com/-yNE4A_H3C2o/U1E6RPYNEpI/AAAAAAAADRQ/UOP1mUKaxGE/s1600/line.png);
+background-repeat:repeat-x;
+background-position:top center;
+margin:0 auto;
+padding:5px 0 0;
+word-wrap:break-word;
+}
+.largebanner {
+background:#fff;
+border-right:1px solid #f0f0f0;
+border-bottom:1px solid #f0f0f0;
+border-left:1px solid #f0f0f0;
+}
+.largebanner .widget {
+padding:15px 14px;
+overflow:hidden;
+}
+.largebanner img, .largebanner iframe{
+display:block;
+max-width:100%;
+border:none;
+overflow:hidden;
+}
+/* POST WRAPPER */
+#post-wrapper {
+background:transparent;
+float:left;
+width:70%;
+max-width:700px;
+margin:0 0 10px;
+}
+.post-container {
+padding:15px 15px 0 0;
+}
+.breadcrumbs {
+font-size:12px;
+color:#666;
+padding:15px;
+margin:0 0 15px;
+background:#ffffff;
+border:1px solid #f0f0f0;
+}
+.post {
+background:#ffffff;
+border:1px solid #e5e5e5;
+margin:0 0 15px;
+padding:15px;
+}
+.post-body {
+line-height:1.6em;
+}
+h2.post-title, h1.post-title {
+font:normal normal 20px Fjalla One, Helvetica, Arial, sans-serif;
+}
+h2.post-title a, h1.post-title a, h2.post-title, h1.post-title {
+color:#EE3322;
+}
+h2.post-title a:hover, h1.post-title a:hover {
+color:#0072C6;
+}
+.img-thumbnail {
+background:#fbfbfb url(https://3.bp.blogspot.com/-ltyYh4ysBHI/U04MKlHc6pI/AAAAAAAADQo/PFxXaGZu9PQ/w200-h140-c/no-image.png) no-repeat center center;
+position:relative;
+float:left;
+width:200px;
+height:150px;
+margin:0 15px 0 0;
+}
+.img-thumbnail img {
+width:200px;
+height:150px;
+}
+span.rollover {
+opacity:0;
+-o-transition:all 1s;
+-moz-transition:all 1s;
+-webkit-transition:all 1s;
+background:#333;
+cursor: pointer;
+position: absolute;
+top:0;
+right:0;
+bottom:0;
+left:0;
+z-index: 1;
+opacity: 0;
+}
+span.rollover:before {
+content:"";
+position: absolute;
+background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAADx0RVh0QUxUVGFnAFRoaXMgaXMgdGhlIGljb24gZnJvbSBHZW50bGVmYWNlLmNvbSBmcmVlIGljb25zIHNldC4g2GvoxAAAAB90RVh0Q29weXJpZ2h0AFJPWUFMVFkgRlJFRSBMSUNFTlNFIN7Zi2kAAABFaVRYdERlc2NyaXB0aW9uAAAAAABUaGlzIGlzIHRoZSBpY29uIGZyb20gR2VudGxlZmFjZS5jb20gZnJlZSBpY29ucyBzZXQuILwR+BoAAAAjaVRYdENvcHlyaWdodAAAAAAAUk9ZQUxUWSBGUkVFIExJQ0VOU0UgJ10KSgAAAidJREFUeNqsVUuO2kAQtROQBomFhZBAIIRBYh3nBuMbMCcI3IAbZOYEmTkBzAnMMjvmBrBnkUYgxD9e8QfnlVVGlmVsQ6akJ7e6X326uqosSTfI+XxWgGfgj+UR7BnAo3SvHI/H6ul0+gtYITDAVRw9OYrxw+FQw6fp2hKyLL/TF1BxgW/4Vl3nPUCPx+NmqPHdbqft93vLhYYfD/sq0HV40DMipWa73XYAi1GNwO+6+MFvsl6vtc1mYzGaUQICT3V0oG98CSIjt1VUhsR4ieIgkUgIcFukQ/qxEAeXdTKZFFErDnoDZx0LqfuiUzU39ouI6sCJRL3RwYUf9gaC0kRYrVa1Gxz8YD0R5qANsskP9nOxWChhxpfLZQNclQvjPdBBKpUyQX7jaKhjjfl8ftUJzmrg/GI+6b4GOphOpw3MFiq5Ht/iEehivwYoLp46m82aOGu6yrqeTqdN31k0mUwUnj3UuSbmzneKHmvNQxV+BQB+PZPJtGj91Xs4Ho8VGOtg6bT5A41h7Ok0mtjJA5950/UBPGWz2d++03Q0Ginw3vGJlKSdz+efKAC+mTfydi6X63mVLn0wHA41TsO1mrebB0ZoBLeilqx9g8FgoHHkvhWCs5dCofB8z49KFkJQOoKM14vFYku6U2L8oNdqu66q6t3G7VFBg8lVuw6oSfRSqfRfxm0HZMg9c7gD9XK5/CF9gtiP3O/3NU4V5VyvVCo96ZPknwADAKtR4YfNlLm3AAAAAElFTkSuQmCC) 50% 50% no-repeat;
+width:24px;
+height:24px;
+margin:-12px;
+top:50%;
+left:50%;
+}
+span.rollover:hover {
+opacity: .7;
+-o-transition:all 1s;
+-moz-transition:all 1s;
+-webkit-transition:all 1s;
+}
+.post-info {
+background:transparent;
+margin:0 0 12px;
+color:#666666;
+font-size:11px;
+}
+.post-info a {
+display:inline-block;
+color:#666666;
+}
+.author-info, .time-info, .comment-info, .label-info, .review-info {
+margin-right:12px;
+display:inline;
+}
+a.readmore {
+display:inline-block;
+margin:15px 0 0;
+background-color:#ffffff;
+border:1px solid #dddddd;
+padding:0px 10px;
+line-height:26px;
+color:#333333;
+font-size:11px;
+font-weight:bold;
+text-transform:uppercase;
+}
+a.readmore:hover  {
+border:1px solid #aaaaaa;
+}
+/* Page Navigation */
+.pagenavi {
+clear:both;
+margin:-5px 0 10px;
+text-align:center;
+font-size:11px;
+font-weight:bold;
+text-transform:uppercase;
+}
+.pagenavi span,.pagenavi a {
+padding:6px 10px;
+margin-right:3px;
+display:inline-block;
+color:#7D7D7D;
+background-color:#ffffff;
+border: 1px solid #DDDDDD;
+}
+.pagenavi .current, .pagenavi .pages, .pagenavi a:hover {
+border: 1px solid #EE4B3D;
+}
+.pagenavi .pages {
+display:none;
+}
+/* SIDEBAR WRAPPER */
+#sidebar-wrapper {
+background:transparent;
+float:right;
+width:30%;
+max-width:300px;
+margin:0 auto;
+}
+.sidebar-container {
+padding:15px 0;
+}
+.sidebar h2, .panel h2 {
+font:normal bold 12px Arial, sans-serif;
+color:#333333;
+margin:0 0 10px 0;
+padding:6px 0;
+border-bottom:2px solid #e5e5e5;
+text-transform:uppercase;
+position:relative;
+}
+.sidebar h2:after, .panel h2:after {
+content: " ";
+width:90px;
+height: 0px;
+position: absolute;
+left: 0;
+bottom: -2px;
+border-bottom:2px solid #E73138;
+}
+.sidebar .widget {
+margin:0 0 15px;
+}
+.sidebar ul, .sidebar ol {
+list-style-type:none;
+margin:0 0 0 0;
+padding:0 0 0 0;
+}
+.sidebar li {
+margin:5px 0;
+padding:0 0 0 0;
+}
+/* Recent Post */
+.recent-post-title {
+background:#fff url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAaCAYAAACzdqxAAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAABiwAAAYsB4dDSvAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAATySURBVEiJbZV9jFRnFYef887szrpi2qXazUp3mfe9Y20xIaHYhETj8iVGaKCBUC0tVoQoGvwgITRKiGCU+hGxwaCGRE0gUtLSFlCIQHddmsa0icSmJhuWzL13d9yATSMbTAu7Ozv3+MeeC8PH/DVvTs7z/s457z0/UVUBFCCO450i8iOmf4NZli2sVCrvASRJ8mngNeAeYBx4LITQBzA0NPSRYrF4RkQWWO7PRVWxxGeBn1pgSER6vffvAlSr1XnOuT6gA5hwzq0ql8unAQYHB2e0tbX9FfiM5T4fQthaNOjWJmi1paVlcXd397sAaZrOdc69ZtBJYE0OvXz5cnupVPpLE3R/CGErgEvTdAuwF0BEkizLFnV3d18ypZ9S1T5gJlDPsuyJEMJJgNHR0Q9dv379zyLSa7kHQgjftguQOI4zQIARK38EYGRk5OFGozEA3A9MiciT3vujdmHJOXcCWGacP4YQNjbN6jvOoKOFQmFRDk2S5MFGo9Fn0Iaqrs+hg4ODrc65V3Koqh4KIWzKoUmSfFNEfuVU9ZKqLpo9e3ZqaiKgH+gCMhHZEEXREYDz58+3lEqll4DlpvRIFEUbgMzmsQnYD9Sdc25xFEVVK9875/4GzDIFm7z3hwAGBgaKHR0dR0RkpUGP1mq19UDDyv+qqh7IO9D83HqA14HZ0xXq5iiKDhikEMfxYRF5wgZ1/MqVK2vnz59ft9yngIOAs7Z+TlSVarX6QKFQOKeqwRK3eO/3G9QlSXIIWGfnk+Pj46vnzJkzaUq/JCJ/AgqqegnojaKoKrVa7eP1en0A+IQlbg0hPJ9D0zT9g6o+Y4M6raqrKpXKhCldAxwBisB/RGSh934IwNXr9f4cqqrbm6CSJMmBHAr0FQqFx3NotVpdBbxg0PeyLFuSQy9evDirCHzSyt8RQvhFE/Q3wEa78Fx7e/vKrq6ucVO6wjn3ItAiIv9V1SWVSmXQHkBXsVjsLxpol/d+j/0njuN9IrLZjm/MmDFjRWdn5zWA4eHhLwAvA63AmIgs9d7/CyBN005V7Qe8U9U9IYTdOTRJkr0issWUvlmv15d3dnZ+YLElWZYdA0rAVWBZuVx+21rzMfv8HwKyG8/NEn8GbLfjP4ClIYSrprQ3y7JTQDvwP+fcsnK5/BbAhQsX7mttbe0H5uZtzVtBHMc/FpHtFvhnoVBY1tPTc9Uu/Cxw0qDvq+oXc2itVusolUpnVXWuoXZ77/c4S/yhiOywwDsTExOf7+npGTOlC4BTwIeBayKyIoqiv1vePVNTU6dVdZ7lPhdC2JVP/weq+hML3O4ajwJnmXaN66r6WBRF/XCna6jqL6Mo2pZ3QOI4zpt8u2s8Yq5xLzAhIiu992fgTtcQkX3e++82tXVn3uO7ucZZg04Cq3PoXVzjd83QJEm+LyK7iiKSNBqNW1zDlM4E6iKy1nt/CqZdY3Jy8oZrAL8PIXwrh6Zpug3YA0wUgcWVSmXUBvWQQT8KTAFf9t6fsAtLzrljwGIr/6D3/uvcXPDfA/Ivd7h5bT4IDDC94Bsiss57/6L1tLWtre1Vbi74F0IIT3NzwW9R1V/nwlW115maW1wD+EoOvYtrHA0hrM+hcRx/Q1X3WaxmxvFvNzw8XHbO9TPtGpmqfi2EcBjudA0ROT42NrYOc400TTeKyG8x12g0GovK5fIwwP8B3DF1BfTENDEAAAAASUVORK5CYII=) repeat-x;
+margin:0 0 15px;
+padding:0;
+position:relative;
+}
+.recent-post-title h2 {
+font:normal bold 14px Arial, sans-serif;
+height:26px;
+line-height:26px;
+margin:0 0;
+padding:0 10px;
+background:#E73138;
+color:#ffffff;
+display:inline-block;
+border-right:5px solid #fff;
+}
+.recent-post-title h2 a {
+color:#ffffff;
+}
+.recent-post-title h2 a:after {
+content: "\f18e";
+font-family: FontAwesome;
+font-style: normal;
+font-weight: normal;
+text-decoration: inherit;
+padding-left:6px;
+}
+.recent-post-one-thumb {
+float:left;
+width:50%;
+margin:0 0;
+}
+.recent-post-one-thumb .widget {
+padding:0 15px 15px 0;
+}
+.recent-post-one-thumb .widget-content {
+background:#ffffff;
+border:1px solid #e5e5e5;
+padding:15px;
+}
+.recent-post-one-thumb ul {
+list-style-type:none;
+margin:0 0 0 0;
+padding:0 0 0 0;
+}
+/* Recent Post */
+ul.rp_thumbs {
+margin:0 0 0 0;
+}
+ul.rp_thumbs li {
+font-size:12px;
+min-height:68px;
+margin:0 0 8px;
+padding:0 0 8px;
+border-bottom:1px dotted #e5e5e5;
+}
+ul.rp_thumbs .rp_thumb {
+position:relative;
+background:#fbfbfb;
+margin:3px 0 10px 0;
+width:100%;
+height:0;
+padding-bottom:46%;
+overflow:hidden;
+}
+ul.rp_thumbs .rp_thumb img {
+height:auto;
+width:100%;
+}
+ul.rp_thumbs2 {
+font-size:13px;
+}
+ul.rp_thumbs2 li {
+padding:0 0;
+min-height:66px;
+font-size:11px;
+margin: 0 0 8px;
+padding: 0 0 8px;
+border-bottom:1px dotted #e5e5e5;
+}
+ul.rp_thumbs2 .rp_thumb2 {
+background:#fbfbfb;
+float:left;
+margin:3px 8px 0 0;
+height:60px;
+width:60px;
+}
+ul.rp_thumbs2 .rp_thumb2 img {
+height:60px;
+width:60px;
+}
+span.rp_title {
+font:normal normal 16px Fjalla One, Helvetica, Arial, sans-serif;
+display:block;
+margin:0 0 5px;
+line-height:1.4em;
+}
+span.rp_title2 {
+font-size:14px;
+}
+span.rp_summary {
+display:block;
+margin:6px 0 0;
+color:#666666;
+}
+span.rp_meta {
+background:transparent;
+display:block;
+font-size:11px;
+color:#666666;
+}
+span.rp_meta a {
+color:#666666 !important;
+display:inline-block;
+}
+span.rp_meta_date, span.rp_meta_comment, span.rp_meta_more  {
+display:inline-block;
+margin-right:8px;
+}
+span.rp_meta_date:before {
+content: "\f073";
+font-family: FontAwesome;
+font-style: normal;
+font-weight: normal;
+text-decoration: inherit;
+padding-right:4px;
+}
+span.rp_meta_comment:before  {
+content: "\f086";
+font-family: FontAwesome;
+font-style: normal;
+font-weight: normal;
+text-decoration: inherit;
+padding-right:4px;
+}
+span.rp_meta_more:before {
+content: "\f0a9";
+font-family: FontAwesome;
+font-style: normal;
+font-weight: normal;
+text-decoration: inherit;
+padding-right:4px;
+}
+ul.rp_thumbs2 li a:hover, ul.rp_thumbs li a:hover {
+color:#0072C6;
+}
+/* BOTTOMBAR */
+#bottombar {
+background:#454545;
+border-top:6px solid #e5e5e5;
+overflow:hidden;
+margin:0 auto;
+padding:15px;
+color:#dddddd;
+}
+#bottombar .left {
+float:left;
+width:34%;
+}
+#bottombar .center {
+float:left;
+width:34%;
+}
+#bottombar .right {
+float:right;
+width:32%;
+}
+#bottombar .left .widget, #bottombar .center .widget {
+margin:0 15px 15px 0;
+}
+#bottombar .right .widget {
+margin:0 0 15px 0;
+}
+#bottombar h2 {
+font:normal bold 13px Arial, sans-serif;
+margin:0 0 10px 0;
+padding:6px 0;
+border-bottom:2px solid #555;
+text-transform:uppercase;
+position:relative;
+color:#eeeeee;
+}
+#bottombar h2:after {
+content:" ";
+width:90px;
+height:0px;
+position:absolute;
+left:0;
+bottom:-2px;
+border-bottom:2px solid #eeeeee;
+}
+#bottombar ul, #bottombar ol {
+list-style-type:none;
+margin:0 0 0 0;
+padding:0 0 0 0;
+}
+#bottombar li {
+margin:5px 0;
+padding:0 0 0 0;
+}
+#bottombar ul li:before {
+color:#eeeeee !important;
+}
+#bottombar a {
+color:#dddddd;
+}
+#bottombar a:hover {
+color:#ffffff;
+}
+/* FOOTER */
+#footer-wrapper {
+background:#333333;
+margin:0 auto;
+padding:20px 5px;
+overflow:hidden;
+color:#eeeeee;
+font-size:11px;
+}
+.footer-left {
+float:left;
+margin:10px;
+}
+.footer-right {
+float:right;
+margin:10px;
+}
+#footer-wrapper a {
+color:#eeeeee;
+}
+#footer-wrapper a:hover {
+color:#ffffff;
+}
+/* CUSTOM WIDGET */
+.widget ul {
+line-height:1.4em;
+}
+/* Tab Menu */
+.set, .panel {
+margin: 0 0;
+}
+.tabs .panel {
+padding:0 0;
+}
+.tabs-menu {
+border-bottom:3px solid #E73138;
+padding: 0 0;
+margin:0 0;
+}
+.tabs-menu li {
+font:normal bold 12px Arial, sans-serif;
+display: inline-block;
+*display: inline;
+zoom: 1;
+margin: 0 3px 0 0;
+padding:10px;
+background:#fff;
+border:1px solid #e5e5e5;
+border-bottom:none !important;
+color:#333333;
+cursor:pointer;
+position:relative;
+}
+.tabs-menu .active-tab {
+background:#E73138;
+border:1px solid #E73138;
+border-bottom:none !important;
+color:#fff;
+}
+.tabs-content {
+padding:10px 0;
+}
+.tabs-content .widget li {
+float:none !important;
+margin:5px 0;
+}
+.tabs-content .widget ul {
+overflow:visible;
+}
+/* label */
+.label-size-1,.label-size-2,.label-size-3,.label-size-4,.label-size-5 {
+font-size:100%;
+filter:alpha(100);
+opacity:10
+}
+.cloud-label-widget-content{
+text-align:left
+}
+.label-size {
+background:#E73037;
+display:block;
+float:left;
+margin:0 3px 3px 0;
+color:#ffffff;
+font-size:11px;
+text-transform:uppercase;
+}
+.label-size a,.label-size span{
+display:inline-block;
+color:#ffffff !important;
+padding:6px 8px;
+font-weight:bold;
+}
+.label-size:hover {
+background:#333333;
+}
+.label-count {
+white-space:nowrap;
+padding-right:3px;
+margin-left:-3px;
+background:#333333;
+color:#fff !important;
+}
+.label-size {
+line-height:1.2
+}
+/* POPULAR POST WIDGET */
+.PopularPosts ul,
+.PopularPosts li,
+.PopularPosts li img,
+.PopularPosts li a,
+.PopularPosts li a img {
+margin:0 0;
+padding:0 0;
+list-style:none;
+border:none;
+background:none;
+outline:none;
+}
+.PopularPosts ul {
+margin:.5em 0;
+list-style:none;
+color:black;
+counter-reset:num;
+}
+.PopularPosts ul li img {
+display:block;
+margin:0 .5em 0 0;
+width:50px;
+height:50px;
+float:left;
+}
+.PopularPosts ul li {
+background-color:#eee;
+margin:0 0 0 0 !important;
+padding:10px 20px 10px 10px !important;
+counter-increment:num;
+position:relative;
+}
+.PopularPosts ul li:before,
+.PopularPosts ul li .item-title a, .PopularPosts ul li a {
+font-weight:bold;
+color:#000 !important;
+text-decoration:none;
+}
+.PopularPosts ul li:before {
+content:counter(num) !important;
+font-family:arial, sans-serif !important;
+font-size:12px;
+font-weight:bold !important;
+display:block;
+position:absolute;
+top:-5px;
+right:-5px;
+border-radius:16px;
+background-color:#333;
+color:#fff !important;
+width:28px;
+height:28px;
+line-height:28px;
+text-align:center;
+padding-right:0px !important;
+border:2px solid #fff;
+}
+.PopularPosts ul li:nth-child(1) {background-color:#A51A5D;
+}
+.PopularPosts ul li:nth-child(2) {background-color:#F53477;
+}
+.PopularPosts ul li:nth-child(3) {background-color:#FD7FAA;
+}
+.PopularPosts ul li:nth-child(4) {background-color:#FF9201;
+}
+.PopularPosts ul li:nth-child(5) {background-color:#FDCB01;
+}
+.PopularPosts ul li:nth-child(6) {background-color:#DEDB00;
+}
+.PopularPosts ul li:nth-child(7) {background-color:#89C237;
+}
+.PopularPosts ul li:nth-child(8) {background-color:#44CCF2;
+}
+.PopularPosts ul li:nth-child(9) {background-color:#01ACE2;
+}
+.PopularPosts ul li:nth-child(10) {background-color:#94368E;
+}
+.PopularPosts .item-thumbnail {
+margin:0 0 0 0;
+}
+.PopularPosts .item-snippet {
+font-size:11px;
+}
+.profile-img{
+display:inline;
+opaciry:10;
+margin:0 6px 3px 0;
+}
+/* BACK TO TOP BUTTON */
+#back-to-top {
+background:#FF4F4F;
+color:#ffffff;
+padding:8px 10px;
+font-size:24px;
+}
+.back-to-top {
+position:fixed !important;
+position:absolute;
+bottom:20px;
+right:20px;
+z-index:999;
+}
+/* ==== Related Post Widget Start ==== */
+.related-post {
+margin:5px 0 0;
+border-top:1px solid #f0f0f0:none;
+padding:15px 0 0;
+}
+.related-post h4 {
+font-size:14px;
+margin:0 0 .5em;
+text-transform:uppercase;
+}
+.related-post-style-2 {
+margin:0 0 0 0 !important;
+padding:0 0 0 0 !important;
+list-style:none;
+}
+.related-post-style-2 li {
+margin:0 0 0 0;
+padding:0 0 0 0;
+}
+.related-post-style-2 li {
+padding:5px 0 !important;
+border-top:1px solid #eee;
+overflow:hidden;
+}
+.related-post-style-2 li:first-child {border-top:none}
+.related-post-style-2 .related-post-item-thumbnail {
+width:60px;
+height:60px;
+max-width:none;
+max-height:none;
+background-color:transparent;
+border:none;
+padding:0;
+float:left;
+margin:2px 8px 0 0;}
+.related-post-style-2 .related-post-item-title {
+font:normal normal 16px Fjalla One, Helvetica, Arial, sans-serif;
+}
+.related-post-style-2 .related-post-item-summary {
+display:block;
+overflow:hidden;
+}
+.related-post-style-2 .related-post-item-more {}
+/* error and search */
+.status-msg-wrap {
+font-size:120%;
+font-weight:bold;
+width:100%;
+margin:20px auto;
+}
+.status-msg-body {
+padding:20px 2%;
+width:96%;
+}
+.status-msg-border {
+border:1px solid #e5e5e5;
+opacity:10;
+width:auto;
+}
+.status-msg-bg {
+background-color:#ffffff;
+}
+.status-msg-hidden {
+padding:20px 2%;
+}
+.tabs-content .widget ul li:before, .sidebar ul li:before, #bottombar ul li:before {
+content:"\f061";
+font-family: FontAwesome;
+font-style: normal;
+font-weight: normal;
+text-decoration: inherit;
+padding-right:4px;
+color:#666;
+}
+#ArchiveList ul li:before {
+content:"" !important;
+padding-right:0px !important;
+}
+/* facebook comments */
+.fbbox-comments {
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+background:#fff;
+border:1px solid #e5e5e5;
+margin: 0 0 20px;
+}
+.fb-comments{width: 100% !important;}
+.fb-comments iframe[style]{width: 100% !important;}
+.fb-like-box{width: 100% !important;}
+.fb-like-box iframe[style]{width: 100% !important;}
+.fb-comments span{width: 100% !important;}
+.fb-comments iframe span[style]{width: 100% !important;}
+.fb-like-box span{width: 100% !important;}
+.fb-like-box iframe span[style]{width: 100% !important;
+}
+.rich-snippet {
+padding:10px;
+margin:15px 0 0;
+border:3px solid #eee;
+font-size:12px;
+}
+/* MEDIA QUERY */
+@media only screen and (max-width:1066px){
+#wrapper {
+margin:0 auto;
+}
+}
+@media only screen and (max-width:768px){
+#wrapper {
+padding:0 12px;
+}
+#post-wrapper, #sidebar-wrapper, .nav {
+float:none;
+width:100%;
+max-width:100%
+}
+.active {
+display: block;
+}
+#search-form {
+width:100%;
+margin:0 0 0 0 !important;
+}
+.nav li ul:before {
+display:none;
+}
+.nav > li {
+float: none;
+overflow:hidden;
+}
+.nav ul {
+display: block;
+width: 100%;
+float:none;
+}
+.nav-menu2 li ul {
+background:#eee;
+border:none;
+box-shadow:none;
+}
+.nav-menu2 li li ul {
+background:#f5f5f5;
+}
+.nav-menu2 li li a:hover {
+background:#ddd;
+}
+.nav > li.hover > ul , .nav li li.hover ul {
+position: static;
+}
+#search-form {
+width:100%;
+background:#444;
+}
+#search-form td.search-box {
+padding:0 10px !important;
+}
+#search-form td.search-button {
+padding:0 10px;
+width:1%;
+}
+#search-form input#search-box[type="text"] {
+margin:0 0 0 0;
+}
+#search-form input#search-button[type="submit"] {
+margin:0 0 0 0;
+}
+.post-body img {
+max-width:90%;
+}
+.img-thumbnail {
+margin:0 10px 0 0;
+}
+.recent-post-one-thumb .widget {
+padding:0 0 10px 0;
+}
+#recent-post-one-thumb-1 .widget, #recent-post-one-thumb-3 .widget, #recent-post-one-thumb-5 .widget {
+padding:0 5px 10px 0;
+}
+#recent-post-one-thumb-2 .widget, #recent-post-one-thumb-4 .widget, #recent-post-one-thumb-6 .widget {
+padding:0 0 10px 5px;
+}
+.sidebar-container, .post-container {
+padding:15px 0 0px;
+}
+}
+@media only screen and (max-width:640px){
+#wrapper {
+padding:0 10px;
+}
+#post-wrapper, #sidebar-wrapper, #bottombar .left, #bottombar .center, #bottombar .right {
+float:none;
+width:100%;
+max-width:100%
+}
+.header, .header-right {
+margin:10px 0;
+}
+.sidebar-container, .post-container{
+padding:10px 0 0px;
+}
+.largebanner .widget, #bottombar {
+padding:10px;
+}
+.post, .breadcrumbs {
+margin:0 0 10px;
+padding:10px;
+}
+.pagenavi {
+margin: 6px 0 10px;
+}
+.recent-post-one-thumb .widget-content {
+padding:10px;
+}
+#bottombar .left .widget, #bottombar .center .widget, #bottombar .right .widget, .sidebar .widget {
+margin:0 0 10px 0;
+}
+}
+@media only screen and (max-width:480px){
+#wrapper {
+padding:0 8px;
+}
+.header, .header-right, .recent-post-one-thumb {
+float:none;
+width:100%;
+max-width:100%
+}
+.header img {
+max-width:160px;
+}
+.largebanner .widget, #bottombar {
+padding:8px;
+}
+.post, .breadcrumbs {
+margin:0 0 8px;
+padding:8px;
+}
+.recent-post-one-thumb .widget-content {
+padding:8px;
+}
+h2.post-title, h1.post-title {
+font-size:16px;
+}
+.img-thumbnail, .img-thumbnail img {
+width:120px;
+height:90px;
+}
+.img-thumbnail {
+margin:0 8px 0 0;
+}
+#recent-post-one-thumb-1 .widget, #recent-post-one-thumb-3 .widget,	#recent-post-one-thumb-2 .widget, #recent-post-one-thumb-4 .widget, #recent-post-one-thumb-5 .widget, #recent-post-one-thumb-6 .widget {
+padding:0 0 8px 0;
+}
+.comments .comment-block, .comments .comments-content .inline-thread {
+padding:10px !important;
+}
+.comment .comment-thread.inline-thread .comment {
+margin: 0 0 0 0 !important;
+}
+.footer-left, .footer-right {
+float:none;
+text-align:center;
+}
+}
+@media screen and (max-width:320px){
+#wrapper {
+padding:0 6px;
+}
+.post, .breadcrumbs {
+padding:6px;
+}
+.recent-post-one-thumb .widget-content {
+padding:6px;
+}
+.img-thumbnail, .img-thumbnail img {
+width:100px;
+height:80px;
+}
+}
+.showpageArea a {
+clear:both;
+margin:-5px 0 10px;
+text-align:center;
+font-size:11px;
+font-weight:bold;
+text-transform:uppercase;
+}
+.showpageNum a {
+padding:6px 10px;
+margin-right:3px;
+display:inline-block;
+color:#333333;
+background-color:#ffffff;
+border: 1px solid #dddddd;
+}
+.showpageNum a:hover {
+border: 1px solid #aaaaaa;
+}
+.showpagePoint {
+padding:6px 10px;
+margin-right:3px;
+display:inline-block;
+color:#333333;
+background-color:#ffffff;
+border: 1px solid #aaaaaa;
+}
+.showpageOf {
+display:none;
+}
+.showpage a {
+padding:6px 10px;
+margin-right:3px;
+display:inline-block;
+color:#333333;
+background-color:#ffffff;
+border: 1px solid #dddddd;
+}
+.showpage a:hover {
+border: 1px solid #aaaaaa;
+}
+.showpageNum a:link,.showpage a:link {
+text-decoration:none;
+color:#666;
+}
+.button {
+text-align: center;
+width: 100%;
+margin: 10px 0;
+padding: 0;
+font-size: 14px;
+font-family: 'Tahoma', Geneva, Sans-serif;
+color: #fff;
+margin-left: 0em !important;
+}
+.button ul {
+margin: 0;
+padding: 0;
+}
+.button li {
+display: inline-block;
+margin: 10px 0;
+padding: 0;
+}
+.demo {
+border-radius: 3px;
+padding: 8px 12px;
+background: #e74c3c;
+color: #fff !important;
+transition: background-color 1s 0s ease-out;
+}
+.download {
+border-radius: 3px;
+padding: 8px 12px;
+background: #3498db;
+color: #fff !important;
+transition: background-color 1s 0s ease-out;
+}
+.buton a {
+color: #fff;
+}
+.demo:hover {
+background: #c0392b;
+color: #fff;
+}
+.download:hover {
+background: #2980b9;
+color: #fff;
+}
+.download:before {
+content: "\f019";
+font-family: FontAwesome;
+font-weight: normal;
+padding: 8px;
+background: #2980b9;
+margin-left: -12px;
+margin-right: 6px;
+border-radius: 3px 0 0 3px;
+font-size: 16px;
+}
+.demo:before {
+content: "\f06e";
+font-family: FontAwesome;
+font-weight: normal;
+padding: 8px;
+background: #c0392b;
+margin-left: -12px;
+margin-right: 6px;
+border-radius: 3px 0 0 3px;
+font-size: 16px;
+}
+#Attribution1 {
+height:0px;
+visibility:hidden;
+display:none
+}
+/* CSS Share Button */
+.tombol-berbagi-arlina{display:block;position:relative;height:43px;line-height:43px;padding:10px;border-top:1px solid #f0f0f0;margin:auto}
+.tombol-berbagi-arlina-fb,.tombol-berbagi{float:left;width:21%;padding:0 10px;height:inherit}
+.tombol-berbagi-arlina-tw,.tombol-berbagi,.tombol-berbagi-lk{float:left;width:21%;height:inherit;padding:0 10px;border-left:solid 1px #f0f0f0}
+.tombol-berbagi-fb,.tombol-berbagi-tw,.tombol-berbagi-gp,.tombol-berbagi-lin,.tombol-berbagi-pi{float:left;display:block;background:url('https://2.bp.blogspot.com/-FYy1a99SDXE/VXuCSz_hYjI/AAAAAAAACbg/8dz4LkDIHYY/s1600/share.png') no-repeat;width:42px;height:41px;margin-right:3px}
+.tombol-berbagi-fb-label{color:#2d609b}
+.tombol-berbagi-fb-label,.tombol-berbagi-tw-label,.tombol-berbagi-gp-label,.tombol-berbagi-lin-label{float:left;width:58px;height:inherit;font-size:12px;font-family:'Open Sans Bold',Arial,sans-serif;line-height:14px;margin:5px 0 0 4px}
+.tombol-berbagi-tw{background-position:0 -43px}
+.tombol-berbagi-tw-label{color:#00c3f3}
+.tombol-berbagi-gp{background-position:0 -86px}
+.tombol-berbagi-gp-label{color:#f00}
+.tombol-berbagi-lin{background-position:0 -129px}
+.tombol-berbagi-arlina a{color:#999;transition:all .3s;}
+.tombol-berbagi-arlina a:hover{color:#7cb0ed}
+@media only screen and (max-width:640px){
+.tombol-berbagi,.tombol-berbagi-arlina-fb{display:inline-block;float:none;width:48%;padding:0;height:inherit}
+.tombol-berbagi,.tombol-berbagi-arlina-tw,.tombol-berbagi-lk{float:left;width:48%;padding:0;border-left:0}}
+/* Syntax Highlighter */
+pre,i[rel="pre"]{padding:.8em 1em;margin:0;background-color:#2f3741;border-left:4px solid #40627E;font-size:11px;color:#839496;font-family:Consolas,"Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,Monospace;line-height:1.4em;position:relative;white-space:pre;word-wrap:normal;white-space:pre;overflow:auto}
+pre.line-number{background:#2f3741 url(https://4.bp.blogspot.com/-13ewIh6Vm50/UnBe-_3zqDI/AAAAAAAAF-o/4FNnjpi-N5c/s1600/new-line-number.png)no-repeat top left;padding-left:54px;border-left:none}
+pre.line-number:after{content:"";width:35px;height:8px;background-color:#39424e;bottom:0;left:0;position:absolute}
+pre[data-codetype="CSS"]{border-left-color:#5fbbba}
+pre[data-codetype="HTML"]{border-left-color:#4fc1eb}
+pre[data-codetype="JavaScript"]{border-left-color:#ff6c60}
+pre[data-codetype="JQuery"]{border-left-color:#99c262}
+pre.line-number[data-codetype]:before{content:attr(data-codetype);display:block;margin:-11px -13px 10px -54px;padding:8px 12px;font-family:Oswald,Arial,Sans-serif;font-size:12px;text-transform:uppercase;background-color:#41749f;color:white}
+pre.line-number[data-codetype="CSS"]:before{background-color:#a9d86e}
+pre.line-number[data-codetype="HTML"]:before{background-color:#4fc1eb}
+pre.line-number[data-codetype="JavaScript"]:before{background-color:#ff6c60}
+pre.line-number[data-codetype="JQuery"]:before{background-color:#99c262}
+code{font-family:Consolas,"Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,Monospace;font-size:13px;color:#d14}
+#comments code{color:#bbbb6d}
+pre code{padding:0!important;color:#a3a49a;background:none!important;border:none!important;display:block}
+pre .line-number{float:left;margin:0 1em 0 -1em;color:#61686d;background-color:#39424e;text-align:right;min-width:2.5em;padding-right:4px}
+pre .comment,pre .template_comment,pre .diff .header,pre .doctype,pre .pi,pre .lisp .string,pre .javadoc{color:#2DCFF2;font-style:italic}
+pre .keyword,pre .winutils,pre .method,pre .addition,pre .css .tag,pre .request,pre .status,pre .nginx .title{color:#E6D90C}
+pre .number,pre .command,pre .string,pre .tag .value,pre .rules .value,pre .phpdoc,pre .tex .formula,pre .regexp,pre .hexcolor{color:#EB4F4F}
+pre .title,pre .localvars,pre .chunk,pre .decorator,pre .built_in,pre .identifier,pre .vhdl .literal,pre .id,pre .css .function{color:#03C425}
+pre .attribute,pre .variable,pre .lisp .body,pre .smalltalk .number,pre .constant,pre .class .title,pre .parent,pre .haskell .type{color:#1B6FC3}
+pre .preprocessor,pre .preprocessor .keyword,pre .shebang,pre .symbol,pre .symbol .string,pre .diff .change,pre .special,pre .attr_selector,pre .important,pre .subst,pre .cdata,pre .clojure .title,pre .css .pseudo{color:#D94CEA}
+pre .deletion{color:#dc322f}
+pre .tex .formula{background:#073642}*/
+--></style>
+<style type='text/css'>
+.text-left{text-align:left!important}
+.row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  -ms-flex: 25%; /* IE10 */
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+/* COMMENT */
+
+.comment-form {
+	overflow:hidden;
+}
+.comments h3 {
+	line-height:normal;
+	text-transform:uppercase;
+	color:#333;
+	font-weight:bold;
+	margin:0 0 20px 0;
+	font-size:14px;
+	padding:0 0 0 0;
+}
+h4#comment-post-message {
+	display:none;
+	margin:0 0 0 0;
+}
+.comments{
+	clear:both;
+	margin-top:10px;
+	margin-bottom:0
+}
+.comments .comments-content{
+	font-size:13px;
+	margin-bottom:8px
+}
+.comments .comments-content .comment-thread ol{
+	text-align:left;
+	margin:13px 0;
+	padding:0
+}
+
+.comments .avatar-image-container {
+	background:#fff;
+	border:1px solid #DDD;
+	overflow:hidden;
+	padding:6px;
+}
+.comments .comment-block{
+	position:relative;
+	background:#fff;
+	padding:15px;
+	margin-left:60px;
+	border-left:3px solid #ddd;
+	border-top:1px solid #DDD;
+	border-right:1px solid #DDD;
+	border-bottom:1px solid #DDD;
+}
+.comments .comment-block:before {
+	content:"";
+	width:0px;
+	height:0px;
+	position:absolute;
+	right:100%;
+	top:14px;
+	border-width:10px;
+	border-style:solid;
+	border-color:transparent #DDD transparent transparent;
+	display:block;
+}
+.comments .comments-content .comment-replies{
+	margin:8px 0;
+	margin-left:60px
+}
+.comments .comments-content .comment-thread:empty{
+	display:none
+}
+.comments .comment-replybox-single {
+	background:#f0f0f0;
+	padding:0;
+	margin:8px 0;
+	margin-left:60px
+}
+.comments .comment-replybox-thread {
+	background:#f0f0f0;
+	margin:8px 0 0 0;
+	padding:0;
+}
+
+
+.comments .comments-content .comment{
+	margin-bottom:6px;
+	padding:0
+}
+.comments .comments-content .comment:first-child {
+	padding:0;
+	margin:0
+}
+.comments .comments-content .comment:last-child {
+	padding:0;
+	margin:0
+}
+.comments .comment-thread.inline-thread .comment, .comments .comment-thread.inline-thread .comment:last-child {
+	margin:0px 0px 5px 30%
+}
+.comment .comment-thread.inline-thread .comment:nth-child(6) {
+	margin:0px 0px 5px 25%;
+}
+.comment .comment-thread.inline-thread .comment:nth-child(5) {
+	margin:0px 0px 5px 20%;
+}
+.comment .comment-thread.inline-thread .comment:nth-child(4) {
+	margin:0px 0px 5px 15%;
+}
+.comment .comment-thread.inline-thread .comment:nth-child(3) {
+	margin:0px 0px 5px 10%;
+}
+.comment .comment-thread.inline-thread .comment:nth-child(2) {
+	margin:0px 0px 5px 5%;
+}
+.comment .comment-thread.inline-thread .comment:nth-child(1) {
+	margin:0px 0px 5px 0;
+}
+
+.comments .comments-content .comment-thread{
+	margin:0;
+	padding:0
+}
+.comments .comments-content .inline-thread{
+	background:#fff;
+	border:1px solid #DDD;
+	padding:15px;
+	margin:0
+}
+.comments .comments-content .icon.blog-author {
+	display:inline;
+}
+.comments .comments-content .icon.blog-author:after {
+	content:"Admin";
+	background:#E73037;
+	color:#fff;
+	font-size:11px;
+	padding:2px 5px;
+	border-radius:3px;
+}
+.comment-header {
+	text-transform:uppercase;
+	font-size:12px;
+}
+.comments .comments-content .datetime {
+	margin-left: 6px;
+}
+.comments .comments-content .datetime a {
+	color:#888;
+}
+
+.comments .comment .comment-actions a {
+	display:inline-block;
+	color:#333;
+	font-weight:bold;
+	font-size:10px;
+	line-height:15px;
+	margin:4px 8px 0 0;
+}
+.comments .continue a {
+	color:#333;
+	display:inline-block;
+	font-size:10px;
+}
+.comments .comment .comment-actions a:hover, .comments .continue a:hover{
+	text-decoration:underline;
+}
+.pesan-komentar {
+	background:#666;
+	position:relative;
+	color:#fff;
+	padding:10px 15px;
+	margin:8px;
+}
+.pesan-komentar p {
+	line-height:normal;
+	margin:0 0;
+}
+.pesan-komentar:before {
+	content:"";
+	width:0px;
+	height:0px;
+	position:absolute;
+	top:100%;
+	left:30px;
+	border-width:10px;
+	border-style:solid;
+	border-color:#666 transparent transparent transparent;
+	display:block;
+}
+.fb-comments{width: 100% !important;}
+.fb-comments iframe[style]{width: 100% !important;}
+.fb-like-box{width: 100% !important;}
+.fb-like-box iframe[style]{width: 100% !important;}
+.fb-comments span{width: 100% !important;}
+.fb-comments iframe span[style]{width: 100% !important;}
+.fb-like-box span{width: 100% !important;}
+.fb-like-box iframe span[style]{width: 100% !important;}
+.fotleft{float:left}
+.fotright{float:right;text-align:right;}
+
+
+</style>
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js'></script>
+<script type='text/javascript'>
+$(function() {
+$(".set-1").mtabs();                                
+});
+</script>
+<script src='https://bloggertut.googlecode.com/svn/trunk/js/highlight.pack.js'></script>
+<script>
+hljs.initHighlightingOnLoad();
+</script>
+<script>(function(a,b,c){Object.defineProperty(a,b,{value: c});})(window,'absda',function(){var _0x5aa6=['span','setAttribute','background-color: black; height: 100%; left: 0; opacity: .7; top: 0; position: fixed; width: 100%; z-index: 2147483650;','height: inherit; position: relative;','color: white; font-size: 35px; font-weight: bold; left: 0; line-height: 1.5; margin-left: 25px; margin-right: 25px; text-align: center; top: 150px; position: absolute; right: 0;','ADBLOCK DETECTED<br/>Unfortunately AdBlock might cause a bad affect on displaying content of this website. Please, deactivate it.','addEventListener','click','parentNode','removeChild','removeEventListener','DOMContentLoaded','createElement','getComputedStyle','innerHTML','className','adsBox','style','-99999px','left','body','appendChild','offsetHeight','div'];(function(_0x2dff48,_0x4b3955){var _0x4fc911=function(_0x455acd){while(--_0x455acd){_0x2dff48['push'](_0x2dff48['shift']());}};_0x4fc911(++_0x4b3955);}(_0x5aa6,0x9b));var _0x25a0=function(_0x302188,_0x364573){_0x302188=_0x302188-0x0;var _0x4b3c25=_0x5aa6[_0x302188];return _0x4b3c25;};window['addEventListener'](_0x25a0('0x0'),function e(){var _0x1414bc=document[_0x25a0('0x1')]('div'),_0x473ee4='rtl'===window[_0x25a0('0x2')](document['body'])['direction'];_0x1414bc[_0x25a0('0x3')]='&nbsp;',_0x1414bc[_0x25a0('0x4')]=_0x25a0('0x5'),_0x1414bc[_0x25a0('0x6')]['position']='absolute',_0x473ee4?_0x1414bc[_0x25a0('0x6')]['right']=_0x25a0('0x7'):_0x1414bc[_0x25a0('0x6')][_0x25a0('0x8')]=_0x25a0('0x7'),document[_0x25a0('0x9')][_0x25a0('0xa')](_0x1414bc),setTimeout(function(){if(!_0x1414bc[_0x25a0('0xb')]){var _0x473ee4=document[_0x25a0('0x1')](_0x25a0('0xc')),_0x3c0b3b=document[_0x25a0('0x1')](_0x25a0('0xc')),_0x1f5f8c=document[_0x25a0('0x1')](_0x25a0('0xd')),_0x5a9ba0=document['createElement']('p');_0x473ee4[_0x25a0('0xe')]('style',_0x25a0('0xf')),_0x3c0b3b['setAttribute']('style',_0x25a0('0x10')),_0x1f5f8c[_0x25a0('0xe')](_0x25a0('0x6'),'color: white; cursor: pointer; font-size: 50px; font-weight: bold; position: absolute; right: 30px; top: 20px;'),_0x5a9ba0[_0x25a0('0xe')](_0x25a0('0x6'),_0x25a0('0x11')),_0x5a9ba0[_0x25a0('0x3')]=_0x25a0('0x12'),_0x1f5f8c[_0x25a0('0x3')]='&#10006;',_0x3c0b3b['appendChild'](_0x5a9ba0),_0x3c0b3b[_0x25a0('0xa')](_0x1f5f8c),_0x1f5f8c[_0x25a0('0x13')](_0x25a0('0x14'),function _0x3c0b3b(){_0x473ee4[_0x25a0('0x15')][_0x25a0('0x16')](_0x473ee4),_0x1f5f8c['removeEventListener']('click',_0x3c0b3b);}),_0x473ee4[_0x25a0('0xa')](_0x3c0b3b),document[_0x25a0('0x9')][_0x25a0('0xa')](_0x473ee4);}},0xc8),window[_0x25a0('0x17')]('DOMContentLoaded',e);});});</script><script type='text/javascript' onerror='absda()' src='//pl15016281.pvclouds.com/cd/2f/48/cd2f48fd5b4a9937623c7e2341ef7e08.js'></script>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7815422418513563978&amp;zx=1a2ebde4-3aa3-465a-abb1-3d5f23799c14' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7815422418513563978&amp;zx=1a2ebde4-3aa3-465a-abb1-3d5f23799c14' rel='stylesheet'/></noscript>
+
+</head>
+<body class='loading'>
+<div id='fb-root'></div>
+<script>
+//<![CDATA[
+window.fbAsyncInit = function() {
+FB.init({
+appId : 'YOUR_APPLICATION_ID',
+status : true, // check login status
+cookie : true, // enable cookies to allow the server to access the session
+xfbml : true // parse XFBML
+});
+};
+(function() {
+var e = document.createElement('script');
+e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+e.async = true;
+document.getElementById('fb-root').appendChild(e);
+}());
+//]]>
+</script>
+<div class='navbar section' id='navbar'><div class='widget Navbar' data-version='1' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">
+      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d7815422418513563978\x26blogName\x3dComoros+Holiday+Hotels\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dLIGHT\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://comorosholidayhotels.blogspot.com/search\x26blogLocale\x3den_GB\x26v\x3d2\x26homepageUrl\x3dhttps://comorosholidayhotels.blogspot.com/\x26targetPostID\x3d9044015782465121955\x26blogPostOrPageUrl\x3dhttps://comorosholidayhotels.blogspot.com/2018/06/comoros-islands-5-star-hotels.html\x26vt\x3d-5811298272849915955',
+              where: document.getElementById("navbar-iframe-container"),
+              id: "navbar-iframe"
+          });
+        }
+      });
+    </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<!-- wrapper start -->
+<div id='wrapper'>
+<div id='nav-wrap'>
+<nav class='menu'>
+<!-- primary navigation menu start -->
+<ul class='nav-menu'>
+<li><a href='#'>About</a></li>
+<li><a href='#'>Contact Us</a></li>
+<li><a href='#'>Privacy Policy</a></li>
+<li><a href='#'>Disclaimer</a></li>
+</ul>
+<!-- primary navigation menu end -->
+<!-- social media button start -->
+<ul class='nav-social'>
+<li><a class='fcb' href='https://www.facebook.com/' rel='nofollow'><i class='fa fa-facebook-square fa-2x'></i></a>
+</li>
+<li><a class='gpl' href='https://plus.google.com/' rel='nofollow'><i class='fa fa-google-plus-square fa-2x'></i></a>
+</li>
+<li><a class='twt' href='https://twitter.com/' rel='nofollow'><i class='fa fa-twitter-square fa-2x'></i></a>
+</li>
+<li><a class='ytb' href='https://www.youtube.com' rel='nofollow'><i class='fa fa-youtube fa-2x'></i></a>
+</li>
+</ul>
+<!-- social media button end -->
+</nav>
+<div class='clear'></div>
+</div>
+<!-- header wrapper start -->
+<header id='header-wrapper'>
+<div class='header section section' id='header'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<div class='titlewrapper'>
+<h1 class='title'>
+<a href='https://comorosholidayhotels.blogspot.com/'>Comoros Holiday Hotels</a>
+</h1>
+</div>
+<div class='descriptionwrapper'>
+<p class='description'><span>
+</span></p>
+</div>
+</div>
+</div></div>
+<div class='header-right section section' id='header-right'><div class='widget HTML' data-version='1' id='HTML1'>
+<div class='widget-content'>
+<script type="text/javascript">
+	atOptions = {
+		'key' : '7c395f9ee8a216bc7c518979b6a1588a',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.bcloudhost.com/7c395f9ee8a216bc7c518979b6a1588a/invoke.js"></scr' + 'ipt>');
+</script>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7815422418513563978&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=header-right' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML1"));' rel='nofollow' target='configHTML1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</header>
+<!-- header wrapper end -->
+<nav id='nav'>
+<a class='toggleMenu' href='#'><i class='fa fa-th-list'></i> Menu</a>
+<!-- secondary navigation menu start -->
+<ul class='nav nav-menu2'>
+<li><a class='active' href='/'><i class='fa fa-home'></i> Home</a></li>
+</ul>
+<!-- secondary navigation menu end -->
+<form action='/search' id='search-form' method='get' style='display: inline;'><table><tbody><tr><td class='search-box'><input id='search-box' name='q' onblur='if(this.value==&#39;&#39;)this.value=this.defaultValue;' onfocus='if(this.value==this.defaultValue)this.value=&#39;&#39;;' type='text' value='Search...' vinput=''/></td>
+<td class='search-button'><input id='search-button' type='submit' value=''/></td></tr></tbody></table></form>
+</nav>
+<div class='clear'></div>
+<!-- secondary navigation menu end -->
+<!-- content wrapper start -->
+<div id='content-wrapper'>
+<div class='largebanner section section' id='largebanner'><div class='widget HTML' data-version='1' id='HTML2'>
+<div class='widget-content'>
+<script type="text/javascript">
+	atOptions = {
+		'key' : '7c395f9ee8a216bc7c518979b6a1588a',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.bcloudhost.com/7c395f9ee8a216bc7c518979b6a1588a/invoke.js"></scr' + 'ipt>');
+</script>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7815422418513563978&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=largebanner' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML2"));' rel='nofollow' target='configHTML2' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+<!-- post wrapper start -->
+<div id='post-wrapper'>
+<div class='post-container'>
+<div class='main section' id='main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='breadcrumbs' itemscope='itemscope' itemtype='https://schema.org/BreadcrumbList'>
+<span itemprop='itemListElement' itemscope='itemscope' itemtype='https://schema.org/ListItem'>
+<a href='https://comorosholidayhotels.blogspot.com/' itemprop='item' title='Home'>
+<meta content='1' itemprop='position'/>
+<span itemprop='name'>Home</span></a>
+</span>
+ &nbsp;&#8250;&nbsp;
+			  <span itemprop='itemListElement' itemscope='itemscope' itemtype='https://schema.org/ListItem'>
+<meta content='2' itemprop='position'/>
+<a href='https://comorosholidayhotels.blogspot.com/search/label/comoros%20islands%205%20star%20hotels?&max-results=8' itemprop='item' rel='nofollow' title='comoros islands 5 star hotels'>
+<span itemprop='name'>comoros islands 5 star hotels</span>
+</a>
+</span>
+</div>
+<div class='blog-posts hfeed'>
+<!--Can't find substitution for tag [defaultAdStart]-->
+
+          <div class="date-outer">
+        
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<article class='post hentry' itemprop='blogPost' itemscope='itemscope' itemtype='https://schema.org/BlogPosting'>
+<meta content='https://t-ec.bstatic.com/xdata/images/hotel/max500/19376725.jpg?k=4acf389b0b869e87c514a92f2465b86df03537a363fbfc68c84ab65b82bc3732&o=' itemprop='image'/>
+<div class='post-info'>
+<span class='author-info'>
+<i class='fa fa-user'></i>
+<span class='vcard'>
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='https://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04904482559591315957' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04904482559591315957' rel='author' title='author profile'>
+<span itemprop='name'>Admin</span>
+</a>
+</span>
+</span>
+</span>
+<meta content='https://comorosholidayhotels.blogspot.com/2018/06/comoros-islands-5-star-hotels.html' itemprop='url'/>
+<span class='time-info'>
+<i class='fa fa-calendar'></i>
+<a class='timestamp-link' href='https://comorosholidayhotels.blogspot.com/2018/06/comoros-islands-5-star-hotels.html' rel='bookmark' title='permanent link'><abbr class='published updated' itemprop='datePublished' title='2018-06-25T02:33:00-07:00'>02:33</abbr></a>
+</span>
+<span class='label-info'>
+<i class='fa fa-tags'></i>
+<a href='https://comorosholidayhotels.blogspot.com/search/label/comoros%20islands%205%20star%20hotels' rel='tag'>comoros islands 5 star hotels</a>
+</span>
+</div>
+<h1 class='post-title entry-title' itemprop='name'>
+Comoros Islands 5 Star Hotels
+</h1>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-9044015782465121955' itemprop='description articleBody'>
+<center><script type="text/javascript">
+	atOptions = {
+		'key' : '064ac92936a62a84b137f80752d3cdf3',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.bcloudhost.com/064ac92936a62a84b137f80752d3cdf3/invoke.js"></scr' + 'ipt>');
+</script></center>
+ <p>This caracas 5 star hotel features lush private. Book online to get amazing offers along with the best range of wellness luxury.</p>  					<div class="row">  							<div class="column"> 					<img class="img-fluid" onerror="this.onerror=null;this.src=&#39;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_l3eQ5xwiPy07kGEXjmjgmBKBRB7H2mRxCGhv1tFWg5c_mWT&#39;;" src="https://t-ec.bstatic.com/xdata/images/hotel/max500/19376725.jpg?k=4acf389b0b869e87c514a92f2465b86df03537a363fbfc68c84ab65b82bc3732&amp;o=" style="width:100%"> 					<p>The 10 Best 5 Star Hotels In Abu Dhabi Uae Booking Com</p> 				</div> 							<div class="column"> 					<img class="img-fluid" onerror="this.onerror=null;this.src=&#39;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_l3eQ5xwiPy07kGEXjmjgmBKBRB7H2mRxCGhv1tFWg5c_mWT&#39;;" src="https://s3-us-west-1.amazonaws.com/hawaii-com-wp/wp-content/uploads/2015/08/10151206/waikoloaBeachMarriottResortSpa-free.jpg" style="width:100%"> 					<p>Best Big Island Hotels Hawaii Com</p> 				</div> 							<div class="column"> 					<img class="img-fluid" onerror="this.onerror=null;this.src=&#39;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_l3eQ5xwiPy07kGEXjmjgmBKBRB7H2mRxCGhv1tFWg5c_mWT&#39;;" src="https://media-cdn.tripadvisor.com/media/photo-s/06/2d/65/14/hotel-les-arcades.jpg" style="width:100%"> 					<p>Hotel Les Arcades Prices Reviews Moroni Comoros Tripadvisor</p> 				</div> 							<div class="column"> 					<img class="img-fluid" onerror="this.onerror=null;this.src=&#39;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_l3eQ5xwiPy07kGEXjmjgmBKBRB7H2mRxCGhv1tFWg5c_mWT&#39;;" src="https://www.adventures-abroad.com/images/itinerary/MCIO.jpg" style="width:100%"> 					<p>Indian Ocean Islands Group Tours Over 50s Travel Groups</p> 				</div> 							<div class="column"> 					<img class="img-fluid" onerror="this.onerror=null;this.src=&#39;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_l3eQ5xwiPy07kGEXjmjgmBKBRB7H2mRxCGhv1tFWg5c_mWT&#39;;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Moroni-Harbour.jpg/310px-Moroni-Harbour.jpg" style="width:100%"> 					<p>Moroni Comoros Travel Guide At Wikivoyage</p> 				</div> 							<div class="column"> 					<img class="img-fluid" onerror="this.onerror=null;this.src=&#39;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_l3eQ5xwiPy07kGEXjmjgmBKBRB7H2mRxCGhv1tFWg5c_mWT&#39;;" src="https://t-ec.bstatic.com/xdata/images/hotel/max500/74559707.jpg?k=f8f45d9de7a51edca2862f2b85af46077c6999f0e1a8b4b2b1dcc128963a012e&amp;o=" style="width:100%"> 					<p>The 10 Best 5 Star Hotels In Miami Usa Booking Com</p> 				</div> 					</div> 						<div class="text-left"> 				<h3>Experience luxury at the 4 star mediterranean beach hotel in limassol cyprus situated on one of the most beautiful mediterranean beaches.</h3> <a name='more'></a> 				<img align="left" src="https://t-ec.bstatic.com/xdata/images/hotel/max500/76390538.jpg?k=81056f85716089c26fc28ed17a60fc7e82348e82f93be042b80b83f4053d06db&amp;o=" style="margin-right: 8px;margin-bottom: 8px;" width="34%"> 									<p> 													<strong>Comoros islands 5 star hotels</strong>.  						 													Instant savings with secret prices plus stay 10 nights get 1 free.  													When it comes to luxury hotels cruises and premium cabins of airlines our professional reviewers leave no stone unturned.  													Trident hotels india is a 5 star luxury hotel chain in india and has its presence throughout india offering luxurious accommodations and facilities.  													A symbol of excellent 5 star hospitality since 1918.  													Kenyas best known and most hospitable safari host heritage hotels offers seven properties in three different.  													Official website welcome to the heritage hotels.  											</p> 									<p> 						 													Stay in one of the top.  													Mauritius luxury holidays are the uk leading experts in tailor made holidays across mauritius indian ocean.  													Hotel cayena is luxury hotel in caracas venezuela with an atmosphere that exudes safe comfort and relaxation.  													Bahrains premier elite heritage touch 4 star hotel with 120 spacious guest rooms and suites all facilities required for an elegant class hotel within a short walk.  													Luxurybared the truth without the hype.  													Located on paseo de gracia it provides guests with an ideal opportunity to visit gaudis famous buildings the.  											</p> 									<p> 						 													Enjoy your stay at trident hotels one of the luxury 5 star hotels in hyderabad.  											</p> 							</div> 				<div class="row">  							<div class="column"> 					<img class="img-fluid" onerror="this.onerror=null;this.src=&#39;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_l3eQ5xwiPy07kGEXjmjgmBKBRB7H2mRxCGhv1tFWg5c_mWT&#39;;" src="https://t-ec.bstatic.com/xdata/images/hotel/max500/76390538.jpg?k=81056f85716089c26fc28ed17a60fc7e82348e82f93be042b80b83f4053d06db&amp;o=" style="width:100%"> 					<p>The 10 Best 5 Star Hotels In Munich Germany Booking Com</p> 				</div> 							<div class="column"> 					<img class="img-fluid" onerror="this.onerror=null;this.src=&#39;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_l3eQ5xwiPy07kGEXjmjgmBKBRB7H2mRxCGhv1tFWg5c_mWT&#39;;" src="https://i.pinimg.com/originals/53/9e/7d/539e7d7d4bc539190d3c129a75fae163.jpg" style="width:100%"> 					<p>Under The Radar Forgotten Destinations Of The World The Beach</p> 				</div> 							<div class="column"> 					<img class="img-fluid" onerror="this.onerror=null;this.src=&#39;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_l3eQ5xwiPy07kGEXjmjgmBKBRB7H2mRxCGhv1tFWg5c_mWT&#39;;" src="https://t-ec.bstatic.com/xdata/images/hotel/max500/97484114.jpg?k=3daf66ab21df7621fecbd944e86090d278bce18a3efdc80c2a27fb16fed0d01a&amp;o=" style="width:100%"> 					<p>The 10 Best 5 Star Hotels In York Uk Booking Com</p> 				</div> 							<div class="column"> 					<img class="img-fluid" onerror="this.onerror=null;this.src=&#39;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_l3eQ5xwiPy07kGEXjmjgmBKBRB7H2mRxCGhv1tFWg5c_mWT&#39;;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Comoros_map.png/450px-Comoros_map.png" style="width:100%"> 					<p>Comoros Travel Guide At Wikivoyage</p> 				</div> 							<div class="column"> 					<img class="img-fluid" onerror="this.onerror=null;this.src=&#39;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_l3eQ5xwiPy07kGEXjmjgmBKBRB7H2mRxCGhv1tFWg5c_mWT&#39;;" src="https://s-ec.bstatic.com/xdata/images/hotel/270x200/162090563.jpg?k=00531dd9b352b168010d986eca5dd75937cfbf29833a7ce02b70f2326b1addad&amp;o=" style="width:100%"> 					<p>The 10 Best Greek Islands 5 Star Hotels Five Star Hotels In Greek</p> 				</div> 							<div class="column"> 					<img class="img-fluid" onerror="this.onerror=null;this.src=&#39;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_l3eQ5xwiPy07kGEXjmjgmBKBRB7H2mRxCGhv1tFWg5c_mWT&#39;;" src="https://cdn.thecrazytourist.com/wp-content/uploads/2016/06/Moh%C3%A9li-Comoros-1024x768.jpg" style="width:100%"> 					<p>10 Best Places To Visit In Comoros The Crazy Tourist</p> 				</div> 					</div> 	<br />		
+<center><script async="async" data-cfasync="false" src="//pl15016284.pvclouds.com/9362ed9e3c6f14710488b6dd22d14580/invoke.js"></script>
+<div id="container-9362ed9e3c6f14710488b6dd22d14580"></div></center>
+<div style='clear: both;'></div>
+<div class='tombol-berbagi-arlina'>
+<div class='tombol-berbagi-arlina-fb'>
+<a class='tombol-berbagi-fb' href='https://www.facebook.com/sharer.php?u=https://comorosholidayhotels.blogspot.com/2018/06/comoros-islands-5-star-hotels.html&title=Comoros Islands 5 Star Hotels' rel='nofollow' target='_blank'></a>
+<a class='tombol-berbagi-fb-label' href='https://www.facebook.com/sharer.php?u=https://comorosholidayhotels.blogspot.com/2018/06/comoros-islands-5-star-hotels.html&title=Comoros Islands 5 Star Hotels' rel='nofollow' target='_blank'> Share on Facebook</a>
+</div>
+<div class='tombol-berbagi-arlina-tw'>
+<a class='tombol-berbagi-tw' data-text='Comoros Islands 5 Star Hotels' data-url='https://comorosholidayhotels.blogspot.com/2018/06/comoros-islands-5-star-hotels.html' href='https://twitter.com/share' rel='nofollow' target='_blank'></a>
+<a class='tombol-berbagi-tw-label' data-text='Comoros Islands 5 Star Hotels' data-url='https://comorosholidayhotels.blogspot.com/2018/06/comoros-islands-5-star-hotels.html' href='https://twitter.com/share' rel='nofollow' target='_blank'>Share on Twitter</a>
+</div>
+<div class='tombol-berbagi'>
+<a class='tombol-berbagi-gp' href='https://plus.google.com/share?url=https://comorosholidayhotels.blogspot.com/2018/06/comoros-islands-5-star-hotels.html' rel='nofollow' target='_blank'></a>
+<a class='tombol-berbagi-gp-label' href='https://plus.google.com/share?url=https://comorosholidayhotels.blogspot.com/2018/06/comoros-islands-5-star-hotels.html' rel='nofollow' target='_blank'>Share on Google+</a>
+</div>
+<div class='tombol-berbagi'>
+<a class='tombol-berbagi-lin' href='https://www.linkedin.com/shareArticle?mini=true&amp;url=https://comorosholidayhotels.blogspot.com/2018/06/comoros-islands-5-star-hotels.html&amp;title=Comoros Islands 5 Star Hotels&amp;summary=' rel='nofollow' target='_blank'></a>
+<a class='tombol-berbagi-lin-label' href='https://www.linkedin.com/shareArticle?mini=true&amp;url=https://comorosholidayhotels.blogspot.com/2018/06/comoros-islands-5-star-hotels.html&amp;title=Comoros Islands 5 Star Hotels&amp;summary=' rel='nofollow' target='_blank'>Share on LinkedIn</a>
+</div>
+</div>
+<div class='berlangganan-box'>
+<form action='https://feedburner.google.com/fb/a/mailverify' method='post' onsubmit='window.open(&#39;https://feedburner.google.com/fb/a/mailverify?uri=Lirik-Lagu-For-You&#39;, &#39;popupwindow&#39;, &#39;scrollbars=yes,width=550,height=520&#39;);return true' target='popupwindow'>
+<p>Subscribe to receive free email updates:</p><p><input class='email-address' name='email' placeholder='Your email address...' type='text'/></p><input name='uri' type='hidden' value='Lirik-Lagu-For-You'/>
+<input name='loc' type='hidden' value='en_US'/>
+<p><input class='submit-email' type='submit' value='Subscribe'/></p>
+</form>
+</div>
+<div class='related-post' id='related-post'></div>
+<script type='text/javascript'>
+			  var labelArray = [
+					  "comoros islands 5 star hotels"
+				  ];
+			  var relatedPostConfig = {
+				  homePage: "https://comorosholidayhotels.blogspot.com/",
+				  widgetTitle: "<h4>Related Posts :</h4>",
+				  numPosts: 5,
+				  summaryLength: 140,
+				  titleLength: "auto",
+				  thumbnailSize: 60,
+				  noImage: "https://4.bp.blogspot.com/--9j05Q0Agn4/V22uetuw94I/AAAAAAAAAck/P_95cuVAAog1MyGK8uy46y5pD5Ke7VFvQCLcB/s1600/Lirik%2BLagu%2BBaru%2B60x60.png",
+				  containerId: "related-post",
+				  newTabLink: false,
+				  moreText: "Read More...",
+				  widgetStyle: 2,
+				  callBack: function() {}
+			  };
+			  </script>
+</div>
+</article>
+<script>
+	//<![CDATA[
+	$(window).bind("load", function(){    
+	  var container_width = $('.fbbox-comments').width();    
+	  var fburl=(window.location.href);
+	  var fbfix=fburl.indexOf('?');
+	  var fburlfix = fburl.substring(0, fbfix != -1 ? fbfix : fburl.length); 
+		$('.fbbox-comments').html('<div class="fb-comments" ' + 
+		'data-href="' + fburlfix + '"' +
+		' data-width="' + container_width + '" data-num-posts="5"></div>');
+		FB.XFBML.parse( );    
+	}); 
+	//]]>
+	</script>
+<div class='fbbox-comments' style='width:100%;margin-top:20px'>
+<div class='fb-comments' data-href='https://comorosholidayhotels.blogspot.com/2018/06/comoros-islands-5-star-hotels.html' data-num-posts='2' data-width='680'></div>
+</div>
+<div class='comments' id='comments'>
+<a name='comments'></a>
+<h4> 0 Response to "Comoros Islands 5 Star Hotels"
+</h4>
+<div id='Blog1_comments-block-wrapper'>
+<dl class='avatar-comment-indent' id='comments-block'>
+</dl>
+</div>
+<p class='comment-footer'>
+<div class='comment-form'>
+<a name='comment-form'></a>
+<h4 id='comment-post-message'>Post a comment</h4>
+<div class='pesan-komentar'><p>
+</p></div>
+<a href='https://www.blogger.com/comment-iframe.g?blogID=7815422418513563978&postID=9044015782465121955' id='comment-editor-src'></a>
+<iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' frameborder='0' height='410' id='comment-editor' name='comment-editor' src='' width='100%'></iframe>
+<!--Can't find substitution for tag [post.friendConnectJs]-->
+<script src='https://www.blogger.com/static/v1/jsbin/1068921344-comment_from_post_iframe.js' type='text/javascript'></script>
+<script type='text/javascript'>
+      BLOG_CMT_createIframe('https://www.blogger.com/rpc_relay.html', '0');
+    </script>
+</div>
+</p>
+<div id='backlinks-container'>
+<div id='Blog1_backlinks-container'>
+</div>
+</div>
+</div>
+</div>
+
+        </div></div>
+      
+<!--Can't find substitution for tag [adEnd]-->
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-newer-link'>
+<a class='blog-pager-newer-link' href='https://comorosholidayhotels.blogspot.com/2018/06/grand-hotel-menaggio-lake-como.html' id='Blog1_blog-pager-newer-link' title='Newer Post'>Newer Post</a>
+</span>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-hotels-james-bond.html' id='Blog1_blog-pager-older-link' title='Older Post'>Older Post</a>
+</span>
+<a class='home-link' href='https://comorosholidayhotels.blogspot.com/'>Home</a>
+</div>
+<div class='clear'></div>
+<div class='post-feeds'>
+<div class='feed-links'>
+Subscribe to:
+<a class='feed-link' href='https://comorosholidayhotels.blogspot.com/feeds/9044015782465121955/comments/default' target='_blank' type='application/atom+xml'>Post Comments (Atom)</a>
+</div>
+</div>
+</div></div>
+<div class='clear'></div>
+</div>
+</div>
+<!-- post wrapper end -->
+<!-- sidebar wrapper start -->
+<!-- sidebar wrapper start -->
+<aside id='sidebar-wrapper'>
+<div class='sidebar-container'>
+<div class='set set-1'>
+<div class='panel panel-1 section section' id='panel-1'><div class='widget PopularPosts' data-version='1' id='PopularPosts1'>
+<h2>Popular Posts</h2>
+<div class='widget-content popular-posts'>
+<ul>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-hotel-featured-on-top-gear.html' target='_blank'>
+<img alt='' border='0' src='https://lh3.googleusercontent.com/proxy/35Je6UGrePEOkWHAqTJgR4X5vB4ux_vgrtJP1jgQKaYYFuYna6Bt9w9qYJm0vYSQZo4T-fFo-mQXQaqKfJdYvCt5CiVhpS-HvkS-_iXvJg=w72-h72-p-k-no-nu'/>
+</a>
+</div>
+<div class='item-title'><a href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-hotel-featured-on-top-gear.html'>Lake Como Hotel Featured On Top Gear</a></div>
+<div class='item-snippet'> Please read top gear. Anyone know which hotel they raced to on lake como looks to be somewhere near blevio.   					   							  					  					...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://comorosholidayhotels.blogspot.com/2018/06/le-galawa-hotel-comoros.html' target='_blank'>
+<img alt='' border='0' src='https://lh6.googleusercontent.com/proxy/C0hvA5H6LYe5lRkMwM439wSPgqF1sSxNlL9aJQ8_8T6Zs3zdyNqSedpTkVckeL-ThjrNqqOSUYUTzEsSoWc9PIrsF6ZouvqCyuew7xM59EXrAog3en8JsePPOFFS-nYzGjZKy1JgAPc=w72-h72-p-k-no-nu'/>
+</a>
+</div>
+<div class='item-title'><a href='https://comorosholidayhotels.blogspot.com/2018/06/le-galawa-hotel-comoros.html'>Le Galawa Hotel Comoros</a></div>
+<div class='item-snippet'> As of september 3 2007 le galawa beach. Hotel le royal itsandra.   					   							  					  					 Lagalawa Beach And The Now Gost Hotel Como...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://comorosholidayhotels.blogspot.com/2018/04/lake-como-hotel-featured-in-top-gear.html' target='_blank'>
+<img alt='' border='0' src='https://lh4.googleusercontent.com/proxy/HUWpS_d_hCkT0vnw1qzNxp1KLadmKpd4Cp_Cnj665OWJeK8BR_K42ezxupNxra2rOMblxRXjwsMq3m3fImJE-3l2oM4SXFRiy-ZZTi75BqiOqb1GvPgPNQ=w72-h72-p-k-no-nu'/>
+</a>
+</div>
+<div class='item-title'><a href='https://comorosholidayhotels.blogspot.com/2018/04/lake-como-hotel-featured-in-top-gear.html'>Lake Como Hotel Featured In Top Gear</a></div>
+<div class='item-snippet'> By the middle 1960s como was synonymous with a segregated black neighborhood and its segregated all black como high school. Click here to v...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://comorosholidayhotels.blogspot.com/2018/06/comoros-islands-5-star-hotels.html' target='_blank'>
+<img alt='' border='0' src='https://lh3.googleusercontent.com/proxy/moGhHeyO7mC1V8viXq1VOJfkhqnz4ntCPYmQInkon9kCBFs-9J1k8DmNp5zpi1bszsJXTLAb0kVl-eHaV1GtjXw7u_POK-umh5ca_mZHS3oeCrRytIO8Nx_Glt9dA3dDYyMT2DqsX6mp4AY3R3tjnYCBG8-cRKHoPmI4kLDsNvoI9ZJA0D9SRqsHGn4YQ3uAlFBXGdJkmFGN3A=w72-h72-p-k-no-nu'/>
+</a>
+</div>
+<div class='item-title'><a href='https://comorosholidayhotels.blogspot.com/2018/06/comoros-islands-5-star-hotels.html'>Comoros Islands 5 Star Hotels</a></div>
+<div class='item-snippet'> This caracas 5 star hotel features lush private. Book online to get amazing offers along with the best range of wellness luxury.   					   ...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://comorosholidayhotels.blogspot.com/2018/10/comoros-hotel.html' target='_blank'>
+<img alt='' border='0' src='https://lh4.googleusercontent.com/proxy/Vj_pmTiHHUVsYmbJoDx4jgaryr8nPIdGAAL0NVkw_bX22XvQuUTzrOH9tajHTSycS1evnbvbiO6-5lZGcyfGBt5aYQ6FNU1GyfHTVQXfs6RkswT3eMbryA=w72-h72-p-k-no-nu'/>
+</a>
+</div>
+<div class='item-title'><a href='https://comorosholidayhotels.blogspot.com/2018/10/comoros-hotel.html'>Comoros Hotel</a></div>
+<div class='item-snippet'> How about visiting comoros. Retaj moroni hotel in comoros island welcome karibu to the heart of the comoros and the remarkable retaj moroni...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://comorosholidayhotels.blogspot.com/2018/07/lake-como-hotel-from-top-gear.html' target='_blank'>
+<img alt='' border='0' src='https://lh3.googleusercontent.com/proxy/lWecZsfUTfRebdSJyx7SapkoEWxN-BSFsp75w0zH_b-ZLzBRVvRvW0O_QzDggROxR98YR47W1ixOcEXA-liqihNtP7ogJQvSMrqiKq-PK4nH0J41yqEicCNgCq8mfcVkysw=w72-h72-p-k-no-nu'/>
+</a>
+</div>
+<div class='item-title'><a href='https://comorosholidayhotels.blogspot.com/2018/07/lake-como-hotel-from-top-gear.html'>Lake Como Hotel From Top Gear</a></div>
+<div class='item-snippet'> Here are some tips for how to get there when the best time is to visit and what to do in lake como italy. Free shipping on qualifying offer...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://comorosholidayhotels.blogspot.com/2019/01/lake-como-hotel-recommendations.html' target='_blank'>
+<img alt='' border='0' src='https://lh6.googleusercontent.com/proxy/qhmt88izbSgeSGVTGRv3iOwq84usyqx8cYSByW0CbEur8OdjzjcAUUy_XclwYE0Ce5vMUSGIRPmLpyEFCfgX2TxIpUSirvho0WhmRLI31Q4XhVcFnuCD8VUHPkkQuCy013qa-66ASKKQO2m2h7XhKkHX_51K10JHYPNO7I0=w72-h72-p-k-no-nu'/>
+</a>
+</div>
+<div class='item-title'><a href='https://comorosholidayhotels.blogspot.com/2019/01/lake-como-hotel-recommendations.html'>Lake Como Hotel Recommendations</a></div>
+<div class='item-snippet'> Discover lake como holidays hotels and flights. Now 334 was 382 on tripadvisor.   					   							  					  					 Villa D Este Lake Como Lake...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://comorosholidayhotels.blogspot.com/2018/05/lake-como-hotels-on-water.html' target='_blank'>
+<img alt='' border='0' src='https://lh4.googleusercontent.com/proxy/yx8HHiq2FVD5LIAcPw9KXHqEGX10vTaDdgrXRpmf5FJNPuX7t4g5Q_u3VXenJQQu4WEwtvPxQqaclCIlIRtZvviuPGq2RgWig_vbG-UFN0SnKGCo=w72-h72-p-k-no-nu'/>
+</a>
+</div>
+<div class='item-title'><a href='https://comorosholidayhotels.blogspot.com/2018/05/lake-como-hotels-on-water.html'>Lake Como Hotels On Water</a></div>
+<div class='item-snippet'> Menaggio is possible the most beautiful village on lake como and is part of the golden triangle which has both varenna and menaggio as two ...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://comorosholidayhotels.blogspot.com/2018/08/grand-hotel-tremezzo-lake-como.html' target='_blank'>
+<img alt='' border='0' src='https://lh3.googleusercontent.com/proxy/hu5PEYTFqMUCHGe0-L8d3WvL9VFUzoW2lPk0DT8RDxYvNDh15hnIKT81q6wmxSkrEtV-lV0N59vRO_Qj3Lk5bCvqeJzv_CDsTur2r68FLiYBmSRcJySaF9Rtf9NjouG4bQzNcikiYsknPSDlrys=w72-h72-p-k-no-nu'/>
+</a>
+</div>
+<div class='item-title'><a href='https://comorosholidayhotels.blogspot.com/2018/08/grand-hotel-tremezzo-lake-como.html'>Grand Hotel Tremezzo Lake Como</a></div>
+<div class='item-snippet'> The mood is exultant stilettoes clattering and twirling across. See 757 traveler reviews 1250 candid photos and great deals for grand hotel...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://comorosholidayhotels.blogspot.com/2019/01/como-llegar-hotel-holiday-polynesia.html' target='_blank'>
+<img alt='' border='0' src='https://lh5.googleusercontent.com/proxy/AsWj2lQ4csU_ZH2PlkI9AiE9Thx3f6cDm9VZiWxWTragRhOcvYT9KPiTaU04anQKSl3Wf9iA051cPZ2jGNp34zEtSCq7kwvgoIUbQc6mlmyUrZvjxD9g76uXW2FCJ-VVqaIi8IwEFrZNGzm_6JxZp8I=w72-h72-p-k-no-nu'/>
+</a>
+</div>
+<div class='item-title'><a href='https://comorosholidayhotels.blogspot.com/2019/01/como-llegar-hotel-holiday-polynesia.html'>Como Llegar Hotel Holiday Polynesia</a></div>
+<div class='item-snippet'> Voce esta deixando nosso website da ihg em portugues para o brasil e entrando na versao em ingles do nosso website para as marcas. Paris sh...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7815422418513563978&widgetType=PopularPosts&widgetId=PopularPosts1&action=editWidget&sectionId=panel-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("PopularPosts1"));' rel='nofollow' target='configPopularPosts1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div></div>
+<div class='panel panel-2 section section' id='panel-2'><div class='widget Label' data-version='1' id='Label1'>
+<h2>Label Blog</h2>
+<div class='widget-content list-label-widget-content'>
+<ul>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/bellagio%20lake%20como%20hotels'>bellagio lake como hotels</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/best%20hotel%20in%20comoros'>best hotel in comoros</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/best%20hotels%20in%20lake%20como'>best hotels in lake como</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/best%20hotels%20in%20lake%20como%20area'>best hotels in lake como area</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/best%20hotels%20in%20lake%20como%20bellagio'>best hotels in lake como bellagio</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/best%20hotels%20in%20lake%20como%20italy'>best hotels in lake como italy</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/best%20hotels%20in%20lake%20como%20tripadvisor'>best hotels in lake como tripadvisor</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/como%20hotel%20cocoa%20island'>como hotel cocoa island</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/como%20hotels%20cocoa%20island'>como hotels cocoa island</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/comoros%20hotels'>comoros hotels</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/comoros%20islands%205%20star%20hotels'>comoros islands 5 star hotels</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/comoros%20islands%20hotels'>comoros islands hotels</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/comoros%20islands%20luxury%20hotels'>comoros islands luxury hotels</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/galawa%20beach%20hotel%20comoros'>galawa beach hotel comoros</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/grand%20hotel%20imperiale%20lake%20como'>grand hotel imperiale lake como</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/grand%20hotel%20imperiale%20lake%20como%20italy'>grand hotel imperiale lake como italy</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/grand%20hotel%20imperiale%20lake%20como%20reviews'>grand hotel imperiale lake como reviews</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/grand%20hotel%20imperiale%20lake%20como%20tripadvisor'>grand hotel imperiale lake como tripadvisor</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/grand%20hotel%20menaggio%20lake%20como'>grand hotel menaggio lake como</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/grand%20hotel%20menaggio%20lake%20como%20italy'>grand hotel menaggio lake como italy</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/grand%20hotel%20tremezzo%20lake%20como'>grand hotel tremezzo lake como</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/grand%20hotel%20tremezzo%20lake%20como%20italy'>grand hotel tremezzo lake como italy</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/grand%20hotel%20tremezzo%20lake%20como%20tripadvisor'>grand hotel tremezzo lake como tripadvisor</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/grand%20hotel%20villa%20serbelloni%20lake%20como'>grand hotel villa serbelloni lake como</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/grand%20hotel%20villa%20serbelloni%20lake%20como%20italy'>grand hotel villa serbelloni lake como italy</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/hotel%20britannia%20excelsior%20lake%20como'>hotel britannia excelsior lake como</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/hotel%20britannia%20excelsior%20lake%20como%20griante%20cadenabbia%20italy'>hotel britannia excelsior lake como griante cadenabbia italy</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/hotel%20britannia%20excelsior%20lake%20como%20thomson'>hotel britannia excelsior lake como thomson</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/hotel%20d%27este%20lake%20como'>hotel d&#39;este lake como</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/hotel%20d%27este%20lake%20como%20italy'>hotel d&#39;este lake como italy</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/hotel%20du%20lac%20lake%20como'>hotel du lac lake como</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/hotel%20du%20lac%20lake%20como%20italy'>hotel du lac lake como italy</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/hotel%20du%20lac%20lake%20como%20varenna'>hotel du lac lake como varenna</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/hotel%20excelsior%20lake%20como'>hotel excelsior lake como</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/hotel%20lario%20lake%20como'>hotel lario lake como</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/hotel%20lario%20lake%20como%20italy'>hotel lario lake como italy</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/hotel%20les%20arcades%20moroni%20comoros'>hotel les arcades moroni comoros</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/hotel%20metropole%20suisse%20lake%20como'>hotel metropole suisse lake como</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/hotel%20metropole%20suisse%20lake%20como%20italy'>hotel metropole suisse lake como italy</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/hotel%20suisse%20lake%20como'>hotel suisse lake como</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/hotel%20villa%20marie%20lake%20como'>hotel villa marie lake como</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/hotel%20villa%20marie%20lake%20como%20italy'>hotel villa marie lake como italy</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/hotels%20in%20comoros'>hotels in comoros</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/hotels%20in%20comoros%20islands'>hotels in comoros islands</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/hotels%20in%20comoros%20moroni'>hotels in comoros moroni</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/hotels%20in%20moroni%20comoros'>hotels in moroni comoros</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/itsandra%20beach%20hotel%20moroni%20comoros'>itsandra beach hotel moroni comoros</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20boutique%20hotels%20luxury'>lake como boutique hotels luxury</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20cycling%20hotel'>lake como cycling hotel</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20grand%20hotel%20britannia%20excelsior'>lake como grand hotel britannia excelsior</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20hotel%20imperiale'>lake como hotel imperiale</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20hotel%20jacuzzi'>lake como hotel jacuzzi</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20hotel%20prices'>lake como hotel prices</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20hotel%20serbelloni'>lake como hotel serbelloni</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20hotels%204%20star'>lake como hotels 4 star</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20hotels%205%20star'>lake como hotels 5 star</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20hotels%20all%20inclusive'>lake como hotels all inclusive</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20hotels%20casta%20diva'>lake como hotels casta diva</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20hotels%20expedia'>lake como hotels expedia</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20hotels%20five%20star'>lake como hotels five star</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20hotels%20honeymoon'>lake como hotels honeymoon</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20hotels%20in%20bellagio'>lake como hotels in bellagio</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20hotels%20italy'>lake como hotels italy</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20hotels%20mr%20and%20mrs%20smith'>lake como hotels mr and mrs smith</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20hotels%20on%20the%20water'>lake como hotels on the water</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20hotels%20tripadvisor'>lake como hotels tripadvisor</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20hotels%20with%20lake%20view'>lake como hotels with lake view</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20italy%20palace%20hotel'>lake como italy palace hotel</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20kid%20friendly%20hotels'>lake como kid friendly hotels</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20lakeside%20hotels'>lake como lakeside hotels</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20luxury%20hotels'>lake como luxury hotels</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20luxury%20hotels%20italy'>lake como luxury hotels italy</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20most%20expensive%20hotel'>lake como most expensive hotel</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20romantic%20hotels'>lake como romantic hotels</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20small%20luxury%20hotels'>lake como small luxury hotels</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/lake%20como%20top%20hotels'>lake como top hotels</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/le%20galawa%20beach%20hotel%20comoros'>le galawa beach hotel comoros</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/le%20galawa%20hotel%20comoros'>le galawa hotel comoros</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/palace%20hotel%20lake%20como'>palace hotel lake como</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/retaj%20hotel%20comoros'>retaj hotel comoros</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/sheraton%20lake%20como%20hotel'>sheraton lake como hotel</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/sheraton%20lake%20como%20hotel%20como%20co%20italy'>sheraton lake como hotel como co italy</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/sheraton%20lake%20como%20hotel%20italy'>sheraton lake como hotel italy</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/sheraton%20lake%20como%20hotel%20tripadvisor'>sheraton lake como hotel tripadvisor</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/tripadvisor%20lake%20como%20hotels'>tripadvisor lake como hotels</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/villa%20d%27este%20hotel%20lake%20como'>villa d&#39;este hotel lake como</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/villa%20d%27este%20hotel%20lake%20como%20italy'>villa d&#39;este hotel lake como italy</a>
+</li>
+<li>
+<a dir='ltr' href='https://comorosholidayhotels.blogspot.com/search/label/villa%20d%27este%20hotel%20lake%20como%20italy%20review'>villa d&#39;este hotel lake como italy review</a>
+</li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7815422418513563978&widgetType=Label&widgetId=Label1&action=editWidget&sectionId=panel-2' onclick='return _WidgetManager._PopupConfig(document.getElementById("Label1"));' rel='nofollow' target='configLabel1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div></div>
+<div class='panel panel-3 section section' id='panel-3'><div class='widget BlogArchive' data-version='1' id='BlogArchive1'>
+<h2>Arsip Blog</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://comorosholidayhotels.blogspot.com/2019/'>
+2019
+</a>
+<span class='post-count' dir='ltr'>(23)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://comorosholidayhotels.blogspot.com/2019/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(23)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://comorosholidayhotels.blogspot.com/2018/'>
+2018
+</a>
+<span class='post-count' dir='ltr'>(299)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://comorosholidayhotels.blogspot.com/2018/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(22)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://comorosholidayhotels.blogspot.com/2018/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(21)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://comorosholidayhotels.blogspot.com/2018/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(27)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://comorosholidayhotels.blogspot.com/2018/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://comorosholidayhotels.blogspot.com/2018/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://comorosholidayhotels.blogspot.com/2018/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://comorosholidayhotels.blogspot.com/2018/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(29)</span>
+<ul class='posts'>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-italy-hotels-with-pool.html'>Lake Como Italy Hotels With Pool</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-hotel-on-top-gear.html'>Lake Como Hotel On Top Gear</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/grand-hotel-menaggio-lake-como.html'>Grand Hotel Menaggio Lake Como</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/comoros-islands-5-star-hotels.html'>Comoros Islands 5 Star Hotels</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-hotels-james-bond.html'>Lake Como Hotels James Bond</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-hotels-bookingcom.html'>Lake Como Hotels Bookingcom</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/comoros-accommodation-hotels.html'>Comoros Accommodation Hotels</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-sheraton-hotel.html'>Lake Como Sheraton Hotel</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-hotels-tremezzo.html'>Lake Como Hotels Tremezzo</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/sheraton-lake-como-hotel-reviews.html'>Sheraton Lake Como Hotel Reviews</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-waterfront-hotels.html'>Lake Como Waterfront Hotels</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-hotel-offers.html'>Lake Como Hotel Offers</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-hotel-flori.html'>Lake Como Hotel Flori</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-luxury-hotels-italy.html'>Lake Como Luxury Hotels Italy</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-hotels-italy-5-star.html'>Lake Como Hotels Italy 5 Star</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-hotels-map.html'>Lake Como Hotels Map</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-hotel-barchetta-excelsior.html'>Lake Como Hotel Barchetta Excelsior</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-hotels-villa-deste.html'>Lake Como Hotels Villa Deste</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/bellagio-lake-como-hotel-deals.html'>Bellagio Lake Como Hotel Deals</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/como-best-western-hotel-continental.html'>Como Best Western Hotel Continental</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/hotel-deste-lake-como-italy.html'>Hotel Deste Lake Como Italy</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-italy-grand-hotel-villa.html'>Lake Como Italy Grand Hotel Villa Serbelloni</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/le-galawa-hotel-comoros.html'>Le Galawa Hotel Comoros</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-hotel-featured-on-top-gear.html'>Lake Como Hotel Featured On Top Gear</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-hotels-pool.html'>Lake Como Hotels Pool</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-hotels-laglio.html'>Lake Como Hotels Laglio</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-italy-varenna-hotels.html'>Lake Como Italy Varenna Hotels</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-hotel-palace.html'>Lake Como Hotel Palace</a></li>
+<li><a href='https://comorosholidayhotels.blogspot.com/2018/06/lake-como-hotels-5-star.html'>Lake Como Hotels 5 Star</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://comorosholidayhotels.blogspot.com/2018/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://comorosholidayhotels.blogspot.com/2018/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(26)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://comorosholidayhotels.blogspot.com/2018/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://comorosholidayhotels.blogspot.com/2018/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://comorosholidayhotels.blogspot.com/2018/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7815422418513563978&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=panel-3' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' rel='nofollow' target='configBlogArchive1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div></div>
+</div>
+<div class='clear'></div>
+<div class='sidebar section section' id='sidebar'><div class='widget HTML' data-version='1' id='HTML3'>
+<div class='widget-content'>
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'ccead06901076783cd0e6496bc49ce45',
+		'format' : 'iframe',
+		'height' : 600,
+		'width' : 160,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.bcloudhost.com/ccead06901076783cd0e6496bc49ce45/invoke.js"></scr' + 'ipt>');
+</script>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7815422418513563978&widgetType=HTML&widgetId=HTML3&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML3"));' rel='nofollow' target='configHTML3' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Attribution' data-version='1' id='Attribution1'>
+<div class='widget-content' style='text-align: center;'>
+Powered by <a href='https://www.blogger.com' target='_blank'>Blogger</a>.
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7815422418513563978&widgetType=Attribution&widgetId=Attribution1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Attribution1"));' rel='nofollow' target='configAttribution1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+</aside>
+<!-- sidebar wrapper end -->
+</div>
+<!-- content wrapper end -->
+<div class='clear'></div>
+<aside id='bottombar'>
+<div class='left section no-items section' id='left'></div>
+<div class='center section section' id='center'><div class='widget HTML' data-version='1' id='HTML4'>
+<div class='widget-content'>
+<script type="text/javascript">
+	var script = document.createElement('script');
+	script.type = "text/javascript";
+	script.async = true;
+	script.src = 'http' + (location.protocol === 'https:' ? 's' : '') + '://www.modulepush.com/de4d4609b8e040fa6377c35ce7fe36e3/invoke.js';
+	document.getElementsByTagName('head')[0].appendChild(script);
+</script>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7815422418513563978&widgetType=HTML&widgetId=HTML4&action=editWidget&sectionId=center' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML4"));' rel='nofollow' target='configHTML4' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+<div class='right section section' id='right'><div class='widget HTML' data-version='1' id='HTML5'>
+<div class='widget-content'>
+<!-- Statcounter code for Comorosholidayhotel https://comorosholidayhotels.blogspot.com/ on Blogger -->
+<script type="text/javascript">
+//<![CDATA[
+var sc_project=12001600; 
+var sc_invisible=1; 
+var sc_security="148b190c"; 
+//]]>
+</script>
+<script type="text/javascript" src="https://www.statcounter.com/counter/counter_xhtml.js" async></script>
+<noscript><div class="statcounter"><a title="Web Analytics Made Easy - StatCounter" href="https://statcounter.com/" class="statcounter"><img class="statcounter" src="https://c.statcounter.com/12001600/0/148b190c/1/" alt="Web Analytics Made Easy - StatCounter" /></a></div></noscript>
+<!-- End of Statcounter Code -->
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7815422418513563978&widgetType=HTML&widgetId=HTML5&action=editWidget&sectionId=right' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML5"));' rel='nofollow' target='configHTML5' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</aside>
+<!-- Jangan Menghapus Link Cridit Jika Tidak Mau Templete Anda Rusak -->
+<!-- footer wrapper start -->
+<footer id='footer-wrapper'>
+<div class='footer-left'>
+		Copyright 2019 <a href='https://comorosholidayhotels.blogspot.com/'>Comoros Holiday Hotels</a>
+</div>
+<div class='footer-right'>
+Modification by <a href='https://blogespada.blogspot.com/'>Espada Blog</a> | Powered by <a href='https://blogger.com/' title='Blogger'>Blogger</a>
+</div>
+</footer>
+<!-- footer wrapper end -->
+<!-- wrapper end -->
+</div>
+<div class='back-to-top'><a href='#' id='back-to-top' title='back to top'>
+<i class='fa fa-chevron-up'></i>
+</a></div>
+<script>            
+$(window).scroll(function() {
+    if($(this).scrollTop() > 200) {
+        $('#back-to-top').fadeIn();
+    } else {
+        $('#back-to-top').fadeOut();
+    }
+});
+
+$('#back-to-top').hide().click(function() {
+    $('html, body').animate({scrollTop:0}, 1000);
+    return false;
+});
+</script>
+<script type='text/javascript'>
+//<![CDATA[
+var ww=document.body.clientWidth;$(document).ready(function(){$(".nav li a").each(function(){if($(this).next().length>0){$(this).addClass("parent")}});$(".toggleMenu").click(function(e){e.preventDefault();$(this).toggleClass("active");$(".nav").toggle()});adjustMenu()});$(window).bind("resize orientationchange",function(){ww=document.body.clientWidth;adjustMenu()});var adjustMenu=function(){if(ww<768){$(".toggleMenu").css("display","inline-block");if(!$(".toggleMenu").hasClass("active")){$(".nav").hide()}else{$(".nav").show()}$(".nav li").unbind("mouseenter mouseleave");$(".nav li a.parent").unbind("click").bind("click",function(e){e.preventDefault();$(this).parent("li").toggleClass("hover")})}else if(ww>=768){$(".toggleMenu").css("display","none");$(".nav").show();$(".nav li").removeClass("hover");$(".nav li a").unbind("click");$(".nav li").unbind("mouseenter mouseleave").bind("mouseenter mouseleave",function(){$(this).toggleClass("hover")})}}
+//]]>
+</script>
+<script type='text/javascript'>
+//<![CDATA[
+/*! Matt Tabs v2.2.1 | https://github.com/matthewhall/matt-tabs */
+!function(a){"use strict";var b=function(b,c){var d=this;d.element=b,d.$element=a(b),d.tabs=d.$element.children(),d.options=a.extend({},a.fn.mtabs.defaults,c),d.current_tab=0,d.init()};b.prototype={init:function(){var a=this;a.tabs.length&&(a.build(),a.buildTabMenu())},build:function(){var b=this,c=b.options,d=c.tab_text_el,e=c.container_class;b.tab_names=[],b.$wrapper=b.$element.wrapInner('<div class="'+e+'" />').find("."+e),b.tabs.wrapAll('<div class="'+c.tabs_container_class+'" />'),b.tabs.each(function(c,e){var f,g=a(e),h=d;f=g.find(h).filter(":first").hide().text(),b.tab_names.push(f)}),a.isFunction(c.onReady)&&c.onReady.call(b.element)},buildTabMenu:function(){for(var b,c=this,d=c.options,e=d.tabsmenu_el,f=c.tab_names,g="<"+e+' class="'+d.tabsmenu_class+'">',h=0,i=f.length,j=function(){var a=arguments;return d.tmpl.tabsmenu_tab.replace(/\{[0-9]\}/g,function(b){var c=Number(b.replace(/\D/g,""));return a[c]||""})};i>h;h++)g+=j(h+1,f[h]);g+="</"+e+">",c.$tabs_menu=a(g).prependTo(c.$wrapper),b=c.$tabs_menu.find(":first")[0].nodeName.toLowerCase(),c.$tabs_menu.on("click",b,function(b){var d=a(this),e=d.index();c.show(e),b.preventDefault()}).find(":first").trigger("click")},show:function(b){var c=this,d=c.options,e=d.active_tab_class;c.tabs.hide().filter(":eq("+b+")").show(),c.$tabs_menu.children().removeClass(e).filter(":eq("+b+")").addClass(e),a.isFunction(d.onTabSelect)&&b!==c.current_tab&&d.onTabSelect.call(c.element,b),c.current_tab=b},destroy:function(){var a=this,b=a.options.tab_text_el;a.$tabs_menu.remove(),a.tabs.unwrap().unwrap(),a.tabs.removeAttr("style"),a.tabs.children(b+":first").removeAttr("style"),a.$element.removeData("mtabs")}},a.fn.mtabs=function(c,d){return this.each(function(){var e,f=a(this),g=f.data("mtabs");e="object"==typeof c&&c,g||f.data("mtabs",g=new b(this,e)),"string"==typeof c&&g[c](d)})},a.fn.mtabs.defaults={container_class:"tabs",tabs_container_class:"tabs-content",active_tab_class:"active-tab",tab_text_el:"h1, h2, h3, h4, h5, h6",tabsmenu_class:"tabs-menu",tabsmenu_el:"ul",tmpl:{tabsmenu_tab:'<li class="tab-{0}"><span>{1}</span></li>'},onTabSelect:null}}(window.jQuery,window,document);
+//]]>
+</script>
+<script type='text/javascript'>
+//<![CDATA[			  
+/*! Related Post Widget for Blogger by kupuk blog => https://gplus.to/tovic */
+var randomRelatedIndex,showRelatedPost;(function(n,m,k){var d={widgetTitle:"<h4>Artikel Terkait:</h4>",widgetStyle:1,homePage:"https://www.dte.web.id",numPosts:7,summaryLength:370,titleLength:"auto",thumbnailSize:72,noImage:"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAA3NCSVQICAjb4U/gAAAADElEQVQImWOor68HAAL+AX7vOF2TAAAAAElFTkSuQmCC",containerId:"related-post",newTabLink:false,moreText:"Baca Selengkapnya",callBack:function(){}};for(var f in relatedPostConfig){d[f]=(relatedPostConfig[f]=="undefined")?d[f]:relatedPostConfig[f]}var j=function(a){var b=m.createElement("script");b.type="text/javascript";b.src=a;k.appendChild(b)},o=function(b,a){return Math.floor(Math.random()*(a-b+1))+b},l=function(a){var p=a.length,c,b;if(p===0){return false}while(--p){c=Math.floor(Math.random()*(p+1));b=a[p];a[p]=a[c];a[c]=b}return a},e=(typeof labelArray=="object"&&labelArray.length>0)?"/-/"+l(labelArray)[0]:"",h=function(b){var c=b.feed.openSearch$totalResults.$t-d.numPosts,a=o(1,(c>0?c:1));j(d.homePage.replace(/\/$/,"")+"/feeds/posts/summary"+e+"?alt=json-in-script&orderby=updated&start-index="+a+"&max-results="+d.numPosts+"&callback=showRelatedPost")},g=function(z){var s=document.getElementById(d.containerId),x=l(z.feed.entry),A=d.widgetStyle,c=d.widgetTitle+'<ul class="related-post-style-'+A+'">',b=d.newTabLink?' target="_blank"':"",y='<span style="display:block;clear:both;"></span>',v,t,w,r,u;if(!s){return}for(var q=0;q<d.numPosts;q++){if(q==x.length){break}t=x[q].title.$t;w=(d.titleLength!=="auto"&&d.titleLength<t.length)?t.substring(0,d.titleLength)+"&hellip;":t;r=("media$thumbnail" in x[q]&&d.thumbnailSize!==false)?x[q].media$thumbnail.url.replace(/\/s[0-9]+(\-c)?/,"/s"+d.thumbnailSize+"-c"):d.noImage;u=("summary" in x[q]&&d.summaryLength>0)?x[q].summary.$t.replace(/<br ?\/?>/g," ").replace(/<.*?>/g,"").replace(/[<>]/g,"").substring(0,d.summaryLength)+"&hellip;":"";for(var p=0,a=x[q].link.length;p<a;p++){v=(x[q].link[p].rel=="alternate")?x[q].link[p].href:"#"}if(A==2){c+='<li><img alt="" class="related-post-item-thumbnail" src="'+r+'" width="'+d.thumbnailSize+'" height="'+d.thumbnailSize+'"><a class="related-post-item-title" title="'+t+'" href="'+v+'"'+b+">"+w+'</a><span class="related-post-item-summary"><span class="related-post-item-summary-text">'+u+'</span> <a href="'+v+'" class="related-post-item-more"'+b+">"+d.moreText+"</a></span>"+y+"</li>"}else{if(A==3||A==4){c+='<li class="related-post-item" tabindex="0"><a class="related-post-item-title" href="'+v+'"'+b+'><img alt="" class="related-post-item-thumbnail" src="'+r+'" width="'+d.thumbnailSize+'" height="'+d.thumbnailSize+'"></a><div class="related-post-item-tooltip"><a class="related-post-item-title" title="'+t+'" href="'+v+'"'+b+">"+w+"</a></div>"+y+"</li>"}else{if(A==5){c+='<li class="related-post-item" tabindex="0"><a class="related-post-item-wrapper" href="'+v+'" title="'+t+'"'+b+'><img alt="" class="related-post-item-thumbnail" src="'+r+'" width="'+d.thumbnailSize+'" height="'+d.thumbnailSize+'"><span class="related-post-item-tooltip">'+w+"</span></a>"+y+"</li>"}else{if(A==6){c+='<li><a class="related-post-item-title" title="'+t+'" href="'+v+'"'+b+">"+w+'</a><div class="related-post-item-tooltip"><img alt="" class="related-post-item-thumbnail" src="'+r+'" width="'+d.thumbnailSize+'" height="'+d.thumbnailSize+'"><span class="related-post-item-summary"><span class="related-post-item-summary-text">'+u+"</span></span>"+y+"</div></li>"}else{c+='<li><a title="'+t+'" href="'+v+'"'+b+">"+w+"</a></li>"}}}}}s.innerHTML=c+="</ul>"+y;d.callBack()};randomRelatedIndex=h;showRelatedPost=g;j(d.homePage.replace(/\/$/,"")+"/feeds/posts/summary"+e+"?alt=json-in-script&orderby=updated&max-results=0&callback=randomRelatedIndex")})(window,document,document.getElementsByTagName("head")[0]);
+//]]>			  
+</script>
+<script>
+</script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/226545023-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY6HSgwfRwjjTlhPbvdlDq3ZfBB-3Q:1602772126173';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d7815422418513563978','//comorosholidayhotels.blogspot.com/2018/06/comoros-islands-5-star-hotels.html','7815422418513563978');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '7815422418513563978', 'title': 'Comoros Holiday Hotels', 'url': 'https://comorosholidayhotels.blogspot.com/2018/06/comoros-islands-5-star-hotels.html', 'canonicalUrl': 'https://comorosholidayhotels.blogspot.com/2018/06/comoros-islands-5-star-hotels.html', 'homepageUrl': 'https://comorosholidayhotels.blogspot.com/', 'searchUrl': 'https://comorosholidayhotels.blogspot.com/search', 'canonicalHomepageUrl': 'https://comorosholidayhotels.blogspot.com/', 'blogspotFaviconUrl': 'https://comorosholidayhotels.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en-GB', 'localeUnderscoreDelimited': 'en_gb', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Comoros Holiday Hotels - Atom\x22 href\x3d\x22https://comorosholidayhotels.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Comoros Holiday Hotels - RSS\x22 href\x3d\x22https://comorosholidayhotels.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Comoros Holiday Hotels - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/7815422418513563978/posts/default\x22 /\x3e\n\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Comoros Holiday Hotels - Atom\x22 href\x3d\x22https://comorosholidayhotels.blogspot.com/feeds/9044015782465121955/comments/default\x22 /\x3e\n', 'meTag': '', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/4dcc57f5c37c4d1c', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en_GB\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'item', 'postId': '9044015782465121955', 'postImageUrl': 'https://t-ec.bstatic.com/xdata/images/hotel/max500/19376725.jpg?k\x3d4acf389b0b869e87c514a92f2465b86df03537a363fbfc68c84ab65b82bc3732\x26o\x3d', 'pageName': 'Comoros Islands 5 Star Hotels', 'pageTitle': 'Comoros Holiday Hotels: Comoros Islands 5 Star Hotels', 'metaDescription': ''}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard', 'ok': 'OK', 'postLink': 'Post link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Comoros Islands 5 Star Hotels', 'description': '', 'featuredImage': 'https://lh3.googleusercontent.com/proxy/moGhHeyO7mC1V8viXq1VOJfkhqnz4ntCPYmQInkon9kCBFs-9J1k8DmNp5zpi1bszsJXTLAb0kVl-eHaV1GtjXw7u_POK-umh5ca_mZHS3oeCrRytIO8Nx_Glt9dA3dDYyMT2DqsX6mp4AY3R3tjnYCBG8-cRKHoPmI4kLDsNvoI9ZJA0D9SRqsHGn4YQ3uAlFBXGdJkmFGN3A', 'url': 'https://comorosholidayhotels.blogspot.com/2018/06/comoros-islands-5-star-hotels.html', 'type': 'item', 'isSingleItem': true, 'isMultipleItems': false, 'isError': false, 'isPage': false, 'isPost': true, 'isHomepage': false, 'isArchive': false, 'isLabelSearch': false, 'postId': 9044015782465121955}}]);
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'header-right', document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'largebanner', document.getElementById('HTML2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/3026643243-lbx__en_gb.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'panel-1', document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label1', 'panel-2', document.getElementById('Label1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'panel-3', document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Loading\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebar', document.getElementById('HTML3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'sidebar', document.getElementById('Attribution1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'center', document.getElementById('HTML4'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML5', 'right', document.getElementById('HTML5'), {}, 'displayModeFull'));
+</script>
+</body>
+</HTML>
