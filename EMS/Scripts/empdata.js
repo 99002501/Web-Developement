@@ -5,11 +5,11 @@ let employee = function(id, name, address){
 }  
 
 let empManager = function(){
-    this.empData = [];  //blank array with no records in it...
+    this.empData = []; 
     
     this.addEmployee = function(emp){
         this.empData.push(emp);
-        //alert("Employee added successfully to the database");
+        
     }
 
     this.deleteEmployee = function(id){
@@ -41,6 +41,6 @@ let empManager = function(){
         throw "Employee not found to update";        
     }
     this.getAll = function(){
-        return this.empData;//returns all the data from the store....
+        return this.empData;
     }
 }
