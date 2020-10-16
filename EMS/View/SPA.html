@@ -20,13 +20,13 @@
             mgr.addEmployee(new employee(4, "Sudarshana", "Chennai"));
         }
 
-        //Called when the user clicks the link of adding employee
+        
         function onAddClick(){
             $hide("div1");
             $hide("div2");
             $show("div3");
         }
-        //Called when the user clicks Add Employee Button;
+        
         function onAddEmployee(){
             let id = $("newId").value;
             let name = $("newName").value;
@@ -72,7 +72,7 @@
                     debugger;
                     let selectedId = this.attributes["did"].value;
                     mgr.deleteEmployee(selectedId);
-                    //let dataDel = mgr.getAll();
+                    
 
                 })  
             }
