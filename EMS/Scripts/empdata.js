@@ -16,9 +16,9 @@ let empManager = function(){
         let emp = this.empData.find(function(e){
             return e.empId == id
         });
-        let index = this.empData.indexOf(emp);
-        this.empData.splice(index, 1);
-        alert("Employee deleted successfully from the database");        
+        let in = this.empData.indexOf(emp);
+        this.empData.splice(in, 1);
+        alert("Employee deleted successfully");        
     }
 
     this.findEmployee = function(id){
@@ -26,19 +26,19 @@ let empManager = function(){
             return e.empId == id
         });
         if(emp == null)
-            throw `Employee with ID ${id} not found`;
+            throw `Employee with ID ${id} not found in the database`;
         return emp;
     }
     this.updateEmployee = function(emp){
-        for (let index = 0; index < this.empData.length; index++) {
-            let element = this.empData[index];
+        for (let i = 0; i < this.empData.length; i++) {
+            let element = this.empData[i];
             if(element.empId == emp.empId){
                 element.empName = emp.empName;
                 element.empAddress = emp.empAddress;
                 return;
             }
         }
-        throw "Employee not found to update";        
+        throw "Opps !!  Employee not found";        
     }
     this.getAll = function(){
         return this.empData;
