@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,16 +8,15 @@
     <script src="../scripts/empData.js"></script>
     <script>
 
-        let mgr = new empManager();
+        let man = new empman();
         function init(){
             $hide("div1");
             $hide("div2");
             $hide("div3");
-            //add some dummy records to the store...
-            mgr.addEmployee(new employee(1, "Preetha", "Mumbai"));
-            mgr.addEmployee(new employee(2, "Uthara", "Mysore"));
-            mgr.addEmployee(new employee(3, "Bindu", "Bangalore"));
-            mgr.addEmployee(new employee(4, "Sudarshana", "Chennai"));
+            man.addEmployee(new employee(1, "Preetha", "Hyderabad"));
+            man.addEmployee(new employee(2, "Uthara", "ooty"));
+            man.addEmployee(new employee(3, "Bindu", "kangayam"));
+            man.addEmployee(new employee(4, "Sudarshana", "bangalore"));
         }
 
         
@@ -31,34 +30,32 @@
             let id = $("newId").value;
             let name = $("newName").value;
             let address = $("newAddress").value;
-            //create the employee object...
             let emp = new employee(id, name, address)
-            mgr.addEmployee(emp);
+            man.addEmployee(emp);
             $("newId").value ="";
             $("newName").value ="";
             $("newAddress").value ="";
-            alert("Employee added successfully");
+            alert("Employee added");
         }
 
         function fillRecords(){
             $hide("div3");
             $hide("div2");
             $show("div1");
-           //to fill<th>Emp ID</th><th>Emp ID</th> the table of data..
-           let heading = `<tr><th>Emp ID</th><th>Emp Name</th><th>Emp Address</th><th>Options</th>`;
-            $("tblRecords").innerHTML = heading;
+           let heading = `<tr><th>Emp ID</th><th>Employee Name</th><th>Emploee Address</th><th>The Options</th>`;
+            $("tableRecord").innerHTML = heading;
             $show("div1");
-            let data = mgr.getAll();
+            let data = man.getAll();
             data.forEach(emp => {
-                let row = `<tr><td>${emp.empId}</td><td>${emp.empName}</td><td>${emp.empAddress}</td><td><a href="#" class="edit" sid="${emp.empId}">Edit</a><td><button onclick="delEmp()" class="remove" did="${emp.empId}">x</button></td></td>`;
-                $('tblRecords').innerHTML += row;
+                let row = `<tr><td>${emp.employeeId}</td><td>${emp.employeeName}</td><td>${emp.employeeAddress}</td><td><a href="#" class="edit" sid="${emp.employeeId}">Edit</a><td><button onclick="delEmp()" class="remove" did="${emp.employeeId}">x</button></td></td>`;
+                $('tableRecord').innerHTML += row;
                 $mapEvent("edit", function(){
                     debugger;
                     let selectedId = this.attributes["sid"].value;
-                    let empObj = mgr.findEmployee(selectedId);
-                    $("empId").innerText = empObj.empId;
-                    $("empName").value = empObj.empName;
-                    $("empAddress").value = empObj.empAddress;
+                    let employeObj = man.findEmployee(selectedId);
+                    $("employeeId").innerText = employeObj.employeeId;
+                    $("employeeName").value = employeObj.employeeName;
+                    $("employeeAddress").value = employeObj.employeeAddress;
                     $hide("div1");
                     $hide("div3");
                     $show("div2");
@@ -71,25 +68,24 @@
                 $mapEvent("remove", function(){
                     debugger;
                     let selectedId = this.attributes["did"].value;
-                    mgr.deleteEmployee(selectedId);
+                    man.deleteEmployee(selectedId);
                     
 
                 })  
             }
             else{
-                alert("not deleted");
+                alert("Opps not deleted");
             }
 
         }
         function updateRecord(){
-            let id = $("empId").innerText;
-            let name = $("empName").value;
-            let address = $("empAddress").value;
-            //create the employee object...
+            let id = $("employeeId").innerText;
+            let name = $("employeeName").value;
+            let address = $("employeeAddress").value;
             let emp = new employee(id, name, address)
             try {
-                mgr.updateEmployee(emp);
-                alert("Employee updated!!!!");                
+                man.updateEmployee(emp);
+                alert("Employee updated successfully!!!!");                
             } catch (error) {
                 alert(error.message);
             }            
@@ -107,15 +103,15 @@
     <section>
        <div id="div1">
            <h2>List of Employees with Us!!!!</h2>
-           <table id="tblRecords" border="1" width="100%">
+           <table id="tableRecord" border="1" width="100%">
                
            </table>
        </div>
        <div id="div2">
             <h2>Edit the Details of the Employee</h2>
-            <p>Employee ID: <span id="empId"></span> </p>
-            <p>Employee Name:   <input type="text" id="empName"></p>    
-            <p>Employee Address:   <input type="text" id="empAddress"></p>
+            <p>Employee ID: <span id="employeeId"></span> </p>
+            <p>Employee Name:   <input type="text" id="employeeName"></p>    
+            <p>Employee Address:   <input type="text" id="employeeAddress"></p>
             <p><button onclick="updateRecord()">Update Record</button></p>    
        </div>
        <div id="div3">
